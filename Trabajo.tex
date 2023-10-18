@@ -1,0 +1,43 @@
+\subsection{Apertura, lectura y escritura de archivos}
+Para trabajar con archivos en Python, se utiliza la función open(). Esta función toma dos argumentos: el nombre del archivo y el modo de apertura.\\
+
+El modo de apertura determina cómo se puede acceder al archivo. Los modos de apertura más comunes son:
+\begin{itemize}
+    \item r: Lectura. El archivo se abre en modo de lectura.
+    \item w: Escritura. El archivo se abre en modo de escritura. Si el archivo no existe, se crea uno nuevo. Si el archivo existe, se sobrescribe su contenido.
+    \item a: Adición. El archivo se abre en modo de adición. Los datos se escriben al final del archivo.
+\end{itemize}
+
+Por ejemplo, para abrir un archivo de texto en modo de lectura, se puede usar el siguiente código:
+
+Una vez que un archivo está abierto, se puede leer su contenido usando la función read(). Esta función devuelve una cadena con todo el contenido del archivo.\\
+
+Por ejemplo, para leer el contenido de un archivo de texto, se puede usar el siguiente código:
+
+También se puede leer el contenido de un archivo de texto línea por línea usando un bucle for:
+
+Para escribir datos en un archivo, se usa la función write(). Esta función toma una cadena como argumento y la escribe al final del archivo.\\
+
+Por ejemplo, para escribir el siguiente texto en un archivo de texto:
+
+Se puede usar el siguiente código:
+
+\subsection{Operaciones comunes de archivos}
+Además de la apertura, lectura y escritura, Python ofrece otras operaciones comunes de archivos.
+
+\begin{itemize}
+    \item seek(): Permite mover el puntero de lectura o escritura a una posición determinada en el archivo.
+    \item tell(): Devuelve la posición actual del puntero de lectura o escritura en el archivo.
+    \item flush(): Escribe cualquier dato que aún no se haya escrito en el archivo al disco.
+    \item close(): Cierra el archivo y libera los recursos asociados con él.
+\end{itemize}
+
+\subsection{Manejo de archivos con el bloque ``with''}
+El bloque with es una forma segura y conveniente de abrir y cerrar archivos. Cuando se usa el bloque with, el archivo se abre automáticamente al principio del bloque y se cierra automáticamente al final del bloque.\\
+
+Por ejemplo, el siguiente código abre un archivo de texto en modo de lectura y luego imprime su contenido:
+
+Por ejemplo, el siguiente código abre un archivo de texto en modo de lectura y luego imprime su contenido:
+
+El uso del bloque with evita errores comunes, como olvidar cerrar un archivo abierto.
+
