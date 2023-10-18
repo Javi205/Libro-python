@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1697647155 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1697647157 0
+["pdflatex"] 1697647316 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1697647319 0
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697032792 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1697032806 25420 ff57aa1f54674be2e50ed8eb7d554cc3 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1697032801 31952 f221e8b3e570b390b36be1edc22184bf ""
@@ -40,7 +40,7 @@
   "Entrada.tex" 1697635788 3769 1b4d89404c8f1b41544dcadf4ab5fa29 ""
   "Estructuras.tex" 1697634786 3764 de0739ddb60e784e08b871eb244c4ccd ""
   "Funciones.tex" 1697637826 1935 8d721d1c7f0c834ec01ebc23bb2a2b75 ""
-  "Fundamentos.tex" 1697647154 15061 99f0eff3dac629d6457ac145f9c1a6a8 ""
+  "Fundamentos.tex" 1697647315 15061 99f0eff3dac629d6457ac145f9c1a6a8 ""
   "Imagenes/funadamentos1.png" 1697637755 36968 098a7063269486008233b404773a75de ""
   "Imagenes/fundamentos10.png" 1697645637 77194 d236a9d2c828f222c8af6abb84a59322 ""
   "Imagenes/fundamentos11.png" 1697645683 105726 7c30f720946eefc6ef763e16082059ff ""
@@ -66,9 +66,9 @@
   "Trabajo.tex" 1697635559 2562 44a77c9856ef43307f9502b69f9ad73c ""
   "Variables.tex" 1697634786 152 1e281630b15fb60df75f25d23b15de7e ""
   "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" 1697647154 2421 0b18d8c8a1c8db4a7fc03101d6440fae ""
-  "libro.aux" 1697647157 9799 51efdb8b25b454faa17a133a4a1feb1b "pdflatex"
+  "libro.aux" 1697647318 9799 51efdb8b25b454faa17a133a4a1feb1b "pdflatex"
   "libro.tex" 1697647154 2421 0b18d8c8a1c8db4a7fc03101d6440fae ""
-  "libro.toc" 1697647157 6395 1136cc329921e3f41469da17ed482124 "pdflatex"
+  "libro.toc" 1697647318 6395 1136cc329921e3f41469da17ed482124 "pdflatex"
   (generated)
   "libro.aux"
   "libro.log"
