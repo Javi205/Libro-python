@@ -25,6 +25,12 @@ Declaración y Asignación: Para crear una variable en Python, simplemente elige
   \end{figure}
 
 Reasignación de variables: Puedes cambiar el valor de una variable en cualquier momento asignándole un nuevo valor:\\
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos3.png}
+    }
+  \end{figure}
 
 Identificadores: Los identificadores son nombres que se utilizan para representar variables, funciones, clases y otros elementos en Python. Algunas reglas claves para los identificadores en Python son:
 
@@ -35,23 +41,76 @@ Identificadores: Los identificadores son nombres que se utilizan para representa
     \item No se pueden utilizar palabras clave de Python como identificadores. Las palabras clave son términos reservados para funciones y estructuras de control, como ``if'', ``for'', ``while'', entre otros.
 \end{itemize}
 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos4.png}
+    }
+  \end{figure}
+
 Uso de variables: Las variables se utilizan para almacenar valores y realizar cálculos. Puedes utilizar variables en expresiones matemáticas, en operaciones de cadena de texto, en estructuras de control (como condicionales y bucles) y para muchas otras tareas en tu programa.\\
+
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos5.png}
+    }
+  \end{figure}
 
 Constantes: Puedes usar variables para definir constantes, que son valores que no deben modificarse a lo largo del programa. Para indicar que una variable es una constante, es común utilizar letras mayúsculas y subrayados (por ejemplo, PI = 3.1416).\\
 
 Desestructuración de Asignación: Python permite asignar valores a Múltiples variables en una sola línea de código. Esto es especialmente útil cuando se trabaja con secuencias como listas o tuplas.
 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos6.png}
+    }
+  \end{figure}
+
 Operadores de Asignación Combinada: Python ofrece operadores de asignación combinada que permiten simplificar la asignación de variables en operaciones comunes. Por ejemplo, ``+='' es una forma abreviada de incrementar el valor de una variable.\\
 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos7.png}
+    }
+  \end{figure}
 
 Tipos de datos: Python es un lenguaje de tipo dinámico, lo que significa que una variable no tiene un tipo de dato fijo. El tipo de dato de una variable se asigna automáticamente según el valor que contiene. Puedes verificar el tipo de dato de una variable utilizando la función ``type()'':\\
+
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos8.png}
+    }
+  \end{figure}
 
 Ámbito de variables: Las variables pueden tener un ámbito local o global:
 \begin{itemize}
     \item Ámbito local: Las variables declaradas dentro de una función tienen un ámbito local y solo son accesibles dentro de esa función.
+    \begin{figure}[h]
+        \centering
+        \scalebox{0.35}{
+        \includegraphics{Imagenes/fundamentos9.png}
+        }
+      \end{figure}
     \item Ámbito Global: Las variables declaradas fuera de una función o declaradas como globales dentro de una función tienen un ámbito global y son accesibles desde cualquier parte del código.
+    \begin{figure}[h]
+        \centering
+        \scalebox{0.35}{
+        \includegraphics{Imagenes/fundamentos10.png}
+        }
+      \end{figure}
 \end{itemize}
 Ejemplo usando ambos:
+
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos11.png}
+    }
+  \end{figure}
 
 Estos son algunos aspectos adicionales relacionados con las variables en Python que pueden ser útiles para comprender en tu proceso de aprendizaje.
 
@@ -111,6 +170,12 @@ Los operadores de asignación se utilizan para asignar valores a variables. Algu
 \subsection{Expresiones}
 Una expresión es una combinación de valores, variables y operadores que se evalúa para producir un resultado. Las expresiones se utilizan en muchas partes del código, como asignaciones, condicionales, bucles y funciones. Por ejemplo:\\
 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos12.png}
+    }
+  \end{figure}
 Las expresiones pueden ser tan simples como una sola variable o tan complejas como cálculos matemáticos o lógicos.
 
 Estos son los operadores y las expresiones en Python que son fundamentales para realizar tareas de cálculo, toma de decisiones y procesamiento de datos en tus programas. Puedes combinar estos operadores y expresiones de diversas maneras para realizar tareas específicas en tu código.
@@ -119,6 +184,12 @@ Estos son los operadores y las expresiones en Python que son fundamentales para 
 Los comentarios y el formato de código son aspectos cruciales de la programación en Python. Los comentarios son notas en el código que se utilizan para explicar lo que hace el código, mientras que el formato se refiere a la estructura y el estilo del código para que sea más legible y mantenible.\\
 
 Comentarios: Los comentarios en Python se utilizan para agregar explicaciones o notas al código fuente. Se inician con el símbolo ``\#'' y Python los ignoran durante la ejecución. Los comentarios son útiles para documentar el código y facilitar su comprensión tanto para el programador como para otros colaboradores. 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos13.png}
+    }
+  \end{figure}
 \begin{itemize}
     \item Comentarios de una sola línea: Se utilizan para incluir explicaciones breves en una línea.
     \item Comentarios de varias líneas: Se utilizan para describir secciones de código más largas y pueden abarcar varias líneas.
@@ -127,8 +198,26 @@ Comentarios: Los comentarios en Python se utilizan para agregar explicaciones o 
 Formato de Código: El formato del código es importante para mantener la legibilidad y la consistencia en un proyecto. Python se destaca por su énfasis en la indentación (espacios al principio de una línea) para delimitar bloques de código. 
 \begin{itemize}
     \item Indentación: La sangría en Python es fundamental para definir bloques de código. A diferencia de otros lenguajes que utilizan llaves o paréntesis para delimitar bloques, en Python, la sangría se utiliza para indicar la estructura del programa. Esto fomenta la legibilidad y la claridad del código. Un bloque de código se define mediante el uso de espacios o tabulaciones con un mismo nivel de sangría. 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos14.png}
+    }
+    \end{figure}
     \item Interpretado: Python es un lenguaje de programación interpretado. Esto significa que no es necesario compilar el código fuente en código de máquina antes de ejecutarlo. En cambio, el intérprete de Python lee y ejecuta el código línea por línea en tiempo real. Esto facilita la depuración y la portabilidad, ya que un programa escrito en Python se puede ejecutar en cualquier sistema que tenga un intérprete de Python instalado.
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos15.png}
+    }
+    \end{figure}
     \item Tipado dinámico: Python es un lenguaje de tipado dinámico, lo que significa que no necesitas declarar explícitamente el tipo de una variable al crearla. El tipo de una variable se determina automáticamente en el tiempo de ejecución según el valor que contiene. Esto permite una mayor flexibilidad, pero también significa que debes tener cuidado con los tipos de datos para evitar errores inesperados. 
+\begin{figure}[h]
+    \centering
+    \scalebox{0.35}{
+    \includegraphics{Imagenes/fundamentos16.png}
+    }
+    \end{figure}
     \item Convenciones de Nombres: En Python, se siguen ciertas convenciones para nombrar variables, funciones y clases. Algunas pautas comunes incluyen:
 
 \begin{itemize}
@@ -141,7 +230,19 @@ Formato de Código: El formato del código es importante para mantener la legibi
 \end{itemize}
 
     \item Espaciado: Agregar espacios alrededor de operadores y después de comas para mejorar la legibilidad.
+    \begin{figure}[h]
+        \centering
+        \scalebox{0.35}{
+        \includegraphics{Imagenes/fundamentos17.png}
+        }
+      \end{figure}
     \item Longitud de Línea: Es una buena práctica limitar la longitud de una línea de código a aproximadamente 79-80 caracteres para facilitar la lectura. Puedes usar una barra invertida \ para dividir una línea larga en varias líneas:
+    \begin{figure}[h]
+        \centering
+        \scalebox{0.35}{
+        \includegraphics{Imagenes/fundamentos18.png}
+        }
+      \end{figure}
     \item Comentarios Descriptivos: Los comentarios deben ser informativos y explicar el propósito de una sección de código. Es especialmente útil para documentar partes complicadas o algoritmos. No es necesario comentar lo obvio.
 \end{itemize}
 
