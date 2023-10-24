@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  18 OCT 2023 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 09:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -201,83 +201,66 @@ File: Imagenes/fundamentos7.png Graphic file (type png)
 <use Imagenes/fundamentos7.png>
 Package pdftex.def Info: Imagenes/fundamentos7.png  used on input line 77.
 (pdftex.def)             Requested size: 731.73196pt x 277.03432pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-<Imagenes/fundamentos8.png, id=38, 883.80188pt x 334.24875pt>
+[7 <./Imagenes/fundamentos6.png> <./Imagenes/fundamentos7.png>]
+<Imagenes/fundamentos8.png, id=44, 883.80188pt x 334.24875pt>
 File: Imagenes/fundamentos8.png Graphic file (type png)
 <use Imagenes/fundamentos8.png>
 Package pdftex.def Info: Imagenes/fundamentos8.png  used on input line 86.
 (pdftex.def)             Requested size: 883.79973pt x 334.24792pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/fundamentos9.png, id=39, 1029.8475pt x 347.04657pt>
+<Imagenes/fundamentos9.png, id=45, 1029.8475pt x 347.04657pt>
 File: Imagenes/fundamentos9.png Graphic file (type png)
 <use Imagenes/fundamentos9.png>
-Package pdftex.def Info: Imagenes/fundamentos9.png  used on input line 97.
+Package pdftex.def Info: Imagenes/fundamentos9.png  used on input line 99.
 (pdftex.def)             Requested size: 1029.845pt x 347.04572pt.
 
-Overfull \hbox (17.78484pt too wide) in paragraph at lines 97--98
+Overfull \hbox (17.78484pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/fundamentos10.png, id=40, 805.50937pt x 420.06938pt>
+<Imagenes/fundamentos10.png, id=46, 805.50937pt x 420.06938pt>
 File: Imagenes/fundamentos10.png Graphic file (type png)
 <use Imagenes/fundamentos10.png>
-Package pdftex.def Info: Imagenes/fundamentos10.png  used on input line 104.
+Package pdftex.def Info: Imagenes/fundamentos10.png  used on input line 111.
 (pdftex.def)             Requested size: 805.5074pt x 420.06836pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/fundamentos11.png, id=41, 1040.38687pt x 511.9125pt>
+[8 <./Imagenes/fundamentos8.png> <./Imagenes/fundamentos9.png> <./Imagenes/fundamentos10.png>]
+<Imagenes/fundamentos11.png, id=53, 1040.38687pt x 511.9125pt>
 File: Imagenes/fundamentos11.png Graphic file (type png)
 <use Imagenes/fundamentos11.png>
-Package pdftex.def Info: Imagenes/fundamentos11.png  used on input line 113.
+Package pdftex.def Info: Imagenes/fundamentos11.png  used on input line 121.
 (pdftex.def)             Requested size: 1040.38434pt x 511.91125pt.
 
-Overfull \hbox (21.47366pt too wide) in paragraph at lines 113--114
+Overfull \hbox (21.47366pt too wide) in paragraph at lines 121--122
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <./Imagenes/fundamentos6.png> <./Imagenes/fundamentos7.png>] [8 <./Imagenes/fundamentos8.png> <./Imagenes/fundamentos9.png>] [9 <./Imagenes/fundamentos10.png> <./Imagenes/fundamentos11.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[9 <./Imagenes/fundamentos11.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
-
-<Imagenes/fundamentos12.png, id=58, 1039.63406pt x 258.9675pt>
-File: Imagenes/fundamentos12.png Graphic file (type png)
-<use Imagenes/fundamentos12.png>
-Package pdftex.def Info: Imagenes/fundamentos12.png  used on input line 178.
-(pdftex.def)             Requested size: 1039.63153pt x 258.96684pt.
-
-Overfull \hbox (21.21017pt too wide) in paragraph at lines 178--179
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+<Imagenes/fundamentos12.png, id=61, 1039.63406pt x 258.9675pt>
+File: Imagenes/fundamentos12.png Graphic file (type png)
+<use Imagenes/fundamentos12.png>
+Package pdftex.def Info: Imagenes/fundamentos12.png  used on input line 186.
+(pdftex.def)             Requested size: 1039.63153pt x 258.96684pt.
+
+Overfull \hbox (21.21017pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 <Imagenes/fundamentos13.png, id=62, 1037.37563pt x 323.70938pt>
 File: Imagenes/fundamentos13.png Graphic file (type png)
 <use Imagenes/fundamentos13.png>
-Package pdftex.def Info: Imagenes/fundamentos13.png  used on input line 192.
+Package pdftex.def Info: Imagenes/fundamentos13.png  used on input line 200.
 (pdftex.def)             Requested size: 1037.3731pt x 323.70859pt.
 
-Overfull \hbox (20.41971pt too wide) in paragraph at lines 192--193
+Overfull \hbox (20.41971pt too wide) in paragraph at lines 200--201
  [][] 
  []
 
@@ -285,53 +268,44 @@ Overfull \hbox (20.41971pt too wide) in paragraph at lines 192--193
 <Imagenes/fundamentos14.png, id=68, 1037.37563pt x 252.945pt>
 File: Imagenes/fundamentos14.png Graphic file (type png)
 <use Imagenes/fundamentos14.png>
-Package pdftex.def Info: Imagenes/fundamentos14.png  used on input line 206.
+Package pdftex.def Info: Imagenes/fundamentos14.png  used on input line 214.
 (pdftex.def)             Requested size: 1037.3731pt x 252.94438pt.
 
-Overfull \hbox (20.41971pt too wide) in paragraph at lines 206--207
+Overfull \hbox (20.41971pt too wide) in paragraph at lines 214--215
  [][] 
  []
 
-<Imagenes/fundamentos15.png, id=69, 1028.34187pt x 578.16pt>
+<Imagenes/fundamentos15.png, id=69, 964.35281pt x 215.30438pt>
 File: Imagenes/fundamentos15.png Graphic file (type png)
 <use Imagenes/fundamentos15.png>
-Package pdftex.def Info: Imagenes/fundamentos15.png  used on input line 213.
-(pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
-
-Overfull \hbox (17.25786pt too wide) in paragraph at lines 213--214
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+Package pdftex.def Info: Imagenes/fundamentos15.png  used on input line 221.
+(pdftex.def)             Requested size: 964.35046pt x 215.30385pt.
 <Imagenes/fundamentos16.png, id=70, 876.27374pt x 277.035pt>
 File: Imagenes/fundamentos16.png Graphic file (type png)
 <use Imagenes/fundamentos16.png>
-Package pdftex.def Info: Imagenes/fundamentos16.png  used on input line 220.
+Package pdftex.def Info: Imagenes/fundamentos16.png  used on input line 228.
 (pdftex.def)             Requested size: 876.27159pt x 277.03432pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (5.00937pt too wide) in paragraph at lines 225--226
+[12 <./Imagenes/fundamentos14.png> <./Imagenes/fundamentos15.png>]
+Overfull \hbox (5.00937pt too wide) in paragraph at lines 233--234
 []\T1/cmr/m/n/10 Los ope-ra-do-res y las ex-pre-sio-nes son com-po-nen-tes esen-cia-les en Python
  []
 
-[12 <./Imagenes/fundamentos14.png>]
-<Imagenes/fundamentos17.png, id=76, 876.27374pt x 305.64188pt>
+[13 <./Imagenes/fundamentos16.png>]
+<Imagenes/fundamentos17.png, id=82, 876.27374pt x 305.64188pt>
 File: Imagenes/fundamentos17.png Graphic file (type png)
 <use Imagenes/fundamentos17.png>
-Package pdftex.def Info: Imagenes/fundamentos17.png  used on input line 238.
+Package pdftex.def Info: Imagenes/fundamentos17.png  used on input line 247.
 (pdftex.def)             Requested size: 876.27159pt x 305.64111pt.
- [13 <./Imagenes/fundamentos15.png> <./Imagenes/fundamentos16.png>]
 <Imagenes/fundamentos18.png, id=83, 1038.88126pt x 237.13594pt>
 File: Imagenes/fundamentos18.png Graphic file (type png)
 <use Imagenes/fundamentos18.png>
-Package pdftex.def Info: Imagenes/fundamentos18.png  used on input line 245.
+Package pdftex.def Info: Imagenes/fundamentos18.png  used on input line 254.
 (pdftex.def)             Requested size: 1038.87872pt x 237.13535pt.
 
-Overfull \hbox (20.94669pt too wide) in paragraph at lines 245--246
+Overfull \hbox (20.94669pt too wide) in paragraph at lines 254--255
  [][] 
  []
 
@@ -375,12 +349,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-) (Manejo.tex) (Entrada.tex [19]
+) (Manejo.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[19]
+File: Imagenes/fundamentos9.png Graphic file (type png)
+<use Imagenes/fundamentos9.png>
+Package pdftex.def Info: Imagenes/fundamentos9.png  used on input line 12.
+(pdftex.def)             Requested size: 1029.845pt x 347.04572pt.
+
+Overfull \hbox (17.78484pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+File: Imagenes/fundamentos10.png Graphic file (type png)
+<use Imagenes/fundamentos10.png>
+Package pdftex.def Info: Imagenes/fundamentos10.png  used on input line 23.
+(pdftex.def)             Requested size: 805.5074pt x 420.06836pt.
+) (Entrada.tex [20]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -395,12 +388,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[21]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
@@ -410,7 +403,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[22]) [23]
+) [23]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
  [24] (libro.aux
@@ -426,7 +419,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (24 pages, 923931 bytes).
+Output written on libro.pdf (24 pages, 853112 bytes).
 PDF statistics:
  415 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

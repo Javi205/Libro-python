@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {2.3}Configuración de un entorno virtual}{4}{}%
 \contentsline {section}{\numberline {3}Fundamentos de la sintaxis de Python}{4}{}%
 \contentsline {subsection}{\numberline {3.1}Variables y asignaciones}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Operadores Aritmeticos}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Operadores Aritmeticos}{9}{}%
 \contentsline {subsection}{\numberline {3.3}Operadores de comparación}{9}{}%
 \contentsline {subsection}{\numberline {3.4}Operadores lógicos}{10}{}%
 \contentsline {subsection}{\numberline {3.5}Operadores de asignación}{10}{}%
@@ -38,14 +38,14 @@
 \contentsline {subsection}{\numberline {8.1}Introducción a las excepciones}{20}{}%
 \contentsline {subsection}{\numberline {8.2}Uso de try, except, else}{20}{}%
 \contentsline {subsection}{\numberline {8.3}Tipos de excepciones y manejo específico}{20}{}%
-\contentsline {section}{\numberline {9}Entrada y salida de datos}{20}{}%
-\contentsline {subsection}{\numberline {9.1}Función print()}{20}{}%
-\contentsline {subsection}{\numberline {9.2}Función input()}{20}{}%
-\contentsline {subsection}{\numberline {9.3}Formateo de cadenas}{21}{}%
-\contentsline {section}{\numberline {10}Trabajo con archivos}{21}{}%
-\contentsline {subsection}{\numberline {10.1}Apertura, lectura y escritura de archivos}{21}{}%
-\contentsline {subsection}{\numberline {10.2}Operaciones comunes de archivos}{22}{}%
-\contentsline {subsection}{\numberline {10.3}Manejo de archivos con el bloque ``with''}{22}{}%
+\contentsline {section}{\numberline {9}Entrada y salida de datos}{21}{}%
+\contentsline {subsection}{\numberline {9.1}Función print()}{21}{}%
+\contentsline {subsection}{\numberline {9.2}Función input()}{21}{}%
+\contentsline {subsection}{\numberline {9.3}Formateo de cadenas}{22}{}%
+\contentsline {section}{\numberline {10}Trabajo con archivos}{22}{}%
+\contentsline {subsection}{\numberline {10.1}Apertura, lectura y escritura de archivos}{22}{}%
+\contentsline {subsection}{\numberline {10.2}Operaciones comunes de archivos}{23}{}%
+\contentsline {subsection}{\numberline {10.3}Manejo de archivos con el bloque ``with''}{23}{}%
 \contentsline {section}{\numberline {11}Introducción a la programación orientada a objetos}{24}{}%
 \contentsline {subsection}{\numberline {11.1}Definición de clases y objetos}{24}{}%
 \contentsline {subsection}{\numberline {11.2}Métodos y atributos de clase}{24}{}%
