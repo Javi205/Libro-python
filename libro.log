@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,22 +531,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
+<Imagenes/estructura1.png, id=173, 462.22687pt x 274.02374pt>
+File: Imagenes/estructura1.png Graphic file (type png)
+<use Imagenes/estructura1.png>
+Package pdftex.def Info: Imagenes/estructura1.png  used on input line 11.
+(pdftex.def)             Requested size: 462.22574pt x 274.02307pt.
+[27 <./Imagenes/estructura1.png>]
+<Imagenes/estructura2.png, id=178, 636.87938pt x 301.125pt>
+File: Imagenes/estructura2.png Graphic file (type png)
+<use Imagenes/estructura2.png>
+Package pdftex.def Info: Imagenes/estructura2.png  used on input line 20.
+(pdftex.def)             Requested size: 636.87782pt x 301.12425pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[27]) (Listas.tex [28]
+<Imagenes/estructura3.png, id=179, 593.21625pt x 328.22626pt>
+File: Imagenes/estructura3.png Graphic file (type png)
+<use Imagenes/estructura3.png>
+Package pdftex.def Info: Imagenes/estructura3.png  used on input line 33.
+(pdftex.def)             Requested size: 593.2148pt x 328.22545pt.
+<Imagenes/estructura4.png, id=180, 636.87938pt x 382.42876pt>
+File: Imagenes/estructura4.png Graphic file (type png)
+<use Imagenes/estructura4.png>
+Package pdftex.def Info: Imagenes/estructura4.png  used on input line 42.
+(pdftex.def)             Requested size: 636.87782pt x 382.42781pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[28 <./Imagenes/estructura2.png> <./Imagenes/estructura3.png> <./Imagenes/estructura4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+<Imagenes/estructura5.png, id=187, 593.21625pt x 328.22626pt>
+File: Imagenes/estructura5.png Graphic file (type png)
+<use Imagenes/estructura5.png>
+Package pdftex.def Info: Imagenes/estructura5.png  used on input line 54.
+(pdftex.def)             Requested size: 593.2148pt x 328.22545pt.
+<Imagenes/estructura6.png, id=188, 636.87938pt x 436.63126pt>
+File: Imagenes/estructura6.png Graphic file (type png)
+<use Imagenes/estructura6.png>
+Package pdftex.def Info: Imagenes/estructura6.png  used on input line 63.
+(pdftex.def)             Requested size: 636.87782pt x 436.63019pt.
+[29 <./Imagenes/estructura5.png> <./Imagenes/estructura6.png>]
+<Imagenes/estructura7.png, id=194, 1017.8025pt x 274.02374pt>
+File: Imagenes/estructura7.png Graphic file (type png)
+<use Imagenes/estructura7.png>
+Package pdftex.def Info: Imagenes/estructura7.png  used on input line 84.
+(pdftex.def)             Requested size: 1017.80003pt x 274.02307pt.
+
+Overfull \hbox (13.56902pt too wide) in paragraph at lines 84--85
+ [][] 
+ []
+
+<Imagenes/estructura8.png, id=195, 516.42938pt x 274.02374pt>
+File: Imagenes/estructura8.png Graphic file (type png)
+<use Imagenes/estructura8.png>
+Package pdftex.def Info: Imagenes/estructura8.png  used on input line 92.
+(pdftex.def)             Requested size: 516.42812pt x 274.02307pt.
+[30 <./Imagenes/estructura7.png> <./Imagenes/estructura8.png>]
+<Imagenes/estructura9.png, id=201, 1028.34187pt x 274.02374pt>
+File: Imagenes/estructura9.png Graphic file (type png)
+<use Imagenes/estructura9.png>
+Package pdftex.def Info: Imagenes/estructura9.png  used on input line 100.
+(pdftex.def)             Requested size: 1028.33937pt x 274.02307pt.
+
+Overfull \hbox (17.25786pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<Imagenes/estructura10.png, id=202, 430.60875pt x 328.22626pt>
+File: Imagenes/estructura10.png Graphic file (type png)
+<use Imagenes/estructura10.png>
+Package pdftex.def Info: Imagenes/estructura10.png  used on input line 108.
+(pdftex.def)             Requested size: 430.60768pt x 328.22545pt.
+) (Listas.tex [31 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
 Overfull \hbox (4.1431pt too wide) in paragraph at lines 10--11
 []\T1/cmr/m/n/10 Eliminar ele-men-tos: Pa-ra eli-mi-nar ele-men-tos hay dos mé-to-dos el ``.pop(lugar
  []
 
-[29]) (Funciones.tex [30]
+[32]) (Funciones.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
@@ -561,12 +634,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-) (Manejo.tex) (Entrada.tex [31]
+) (Manejo.tex) (Entrada.tex [34]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-[32]
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -581,7 +654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[33]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -596,25 +669,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[34]) [35]
+[37]) [38]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
- [36] (libro.aux
+ [39] (libro.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3285 strings out of 476331
- 57656 string characters out of 5786313
+ 3355 strings out of 476331
+ 59563 string characters out of 5786313
  1863660 words of memory out of 5000000
- 23659 multiletter control sequences out of 15000+600000
+ 23719 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (36 pages, 2030296 bytes).
+Output written on libro.pdf (39 pages, 2380580 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
+ 531 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 
