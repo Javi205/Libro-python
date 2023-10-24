@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698156405 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698156411 0
+["pdflatex"] 1698156892 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698156897 0
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697032792 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1697032806 25420 ff57aa1f54674be2e50ed8eb7d554cc3 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1697032801 31952 f221e8b3e570b390b36be1edc22184bf ""
@@ -122,14 +122,14 @@
   "Imagenes/listas9.png" 1698155662 44790 18008838f1354b8cb5828d18d4e99d02 ""
   "Instalacion.tex" 1697634786 152 4c0892db1f5a1606fc48b258771a8e9d ""
   "Introduccion.tex" 1697634183 3640 0c0eaccabbdfb3c6dc4f691ae996bee6 ""
-  "Listas.tex" 1698156398 9498 307cc499e74b32fce0f0b30f291e9cf3 ""
+  "Listas.tex" 1698156886 9554 092e5aa909db328d70d0ff5fe178364e ""
   "Manejo.tex" 1698153708 141 278a69ba0cc390bdb5d283127416c7f8 ""
   "Trabajo.tex" 1697635559 2562 44a77c9856ef43307f9502b69f9ad73c ""
   "Variables.tex" 1697634786 152 1e281630b15fb60df75f25d23b15de7e ""
   "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" 1697647154 2421 0b18d8c8a1c8db4a7fc03101d6440fae ""
-  "libro.aux" 1698156411 9800 6e487fe64b5a155b59067730528a086a "pdflatex"
+  "libro.aux" 1698156897 9800 6b30adefd8c1ec5dcc7d027007b383ea "pdflatex"
   "libro.tex" 1697647154 2421 0b18d8c8a1c8db4a7fc03101d6440fae ""
-  "libro.toc" 1698156411 6396 a0d6725885fb31cb919592de60475d25 "pdflatex"
+  "libro.toc" 1698156897 6396 7a12c6940172ba686184096f07b7a38b "pdflatex"
   (generated)
   "libro.aux"
   "libro.log"
