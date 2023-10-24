@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -609,17 +609,283 @@ File: Imagenes/estructura10.png Graphic file (type png)
 <use Imagenes/estructura10.png>
 Package pdftex.def Info: Imagenes/estructura10.png  used on input line 108.
 (pdftex.def)             Requested size: 430.60768pt x 328.22545pt.
-) (Listas.tex [31 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
-Overfull \hbox (4.1431pt too wide) in paragraph at lines 10--11
+) (Listas.tex
+<Imagenes/listas1.png, id=203, 536.0025pt x 248.42813pt>
+File: Imagenes/listas1.png Graphic file (type png)
+<use Imagenes/listas1.png>
+Package pdftex.def Info: Imagenes/listas1.png  used on input line 10.
+(pdftex.def)             Requested size: 536.00119pt x 248.42752pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas2.png, id=204, 570.63188pt x 362.85562pt>
+File: Imagenes/listas2.png Graphic file (type png)
+<use Imagenes/listas2.png>
+Package pdftex.def Info: Imagenes/listas2.png  used on input line 18.
+(pdftex.def)             Requested size: 570.6305pt x 362.85474pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas3.png, id=205, 558.58687pt x 334.24875pt>
+File: Imagenes/listas3.png Graphic file (type png)
+<use Imagenes/listas3.png>
+Package pdftex.def Info: Imagenes/listas3.png  used on input line 26.
+(pdftex.def)             Requested size: 558.58551pt x 334.24792pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas4.png, id=206, 605.26125pt x 305.64188pt>
+File: Imagenes/listas4.png Graphic file (type png)
+<use Imagenes/listas4.png>
+Package pdftex.def Info: Imagenes/listas4.png  used on input line 34.
+(pdftex.def)             Requested size: 605.25975pt x 305.64111pt.
+[31 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas5.png, id=213, 605.26125pt x 305.64188pt>
+File: Imagenes/listas5.png Graphic file (type png)
+<use Imagenes/listas5.png>
+Package pdftex.def Info: Imagenes/listas5.png  used on input line 42.
+(pdftex.def)             Requested size: 605.25975pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas6.png, id=214, 536.0025pt x 305.64188pt>
+File: Imagenes/listas6.png Graphic file (type png)
+<use Imagenes/listas6.png>
+Package pdftex.def Info: Imagenes/listas6.png  used on input line 50.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+Overfull \hbox (4.1431pt too wide) in paragraph at lines 45--52
 []\T1/cmr/m/n/10 Eliminar ele-men-tos: Pa-ra eli-mi-nar ele-men-tos hay dos mé-to-dos el ``.pop(lugar
  []
 
-[32]) (Funciones.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas7.png, id=215, 536.0025pt x 305.64188pt>
+File: Imagenes/listas7.png Graphic file (type png)
+<use Imagenes/listas7.png>
+Package pdftex.def Info: Imagenes/listas7.png  used on input line 57.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas8.png, id=216, 536.0025pt x 305.64188pt>
+File: Imagenes/listas8.png Graphic file (type png)
+<use Imagenes/listas8.png>
+Package pdftex.def Info: Imagenes/listas8.png  used on input line 65.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas9.png, id=217, 536.0025pt x 305.64188pt>
+File: Imagenes/listas9.png Graphic file (type png)
+<use Imagenes/listas9.png>
+Package pdftex.def Info: Imagenes/listas9.png  used on input line 73.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas10.png, id=218, 570.63188pt x 334.24875pt>
+File: Imagenes/listas10.png Graphic file (type png)
+<use Imagenes/listas10.png>
+Package pdftex.def Info: Imagenes/listas10.png  used on input line 81.
+(pdftex.def)             Requested size: 570.6305pt x 334.24792pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas11.png, id=219, 570.63188pt x 305.64188pt>
+File: Imagenes/listas11.png Graphic file (type png)
+<use Imagenes/listas11.png>
+Package pdftex.def Info: Imagenes/listas11.png  used on input line 89.
+(pdftex.def)             Requested size: 570.6305pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas12.png, id=220, 837.1275pt x 305.64188pt>
+File: Imagenes/listas12.png Graphic file (type png)
+<use Imagenes/listas12.png>
+Package pdftex.def Info: Imagenes/listas12.png  used on input line 96.
+(pdftex.def)             Requested size: 837.12546pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas13.png, id=221, 709.14937pt x 305.64188pt>
+File: Imagenes/listas13.png Graphic file (type png)
+<use Imagenes/listas13.png>
+Package pdftex.def Info: Imagenes/listas13.png  used on input line 104.
+(pdftex.def)             Requested size: 709.14764pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas14.png, id=222, 558.58687pt x 305.64188pt>
+File: Imagenes/listas14.png Graphic file (type png)
+<use Imagenes/listas14.png>
+Package pdftex.def Info: Imagenes/listas14.png  used on input line 111.
+(pdftex.def)             Requested size: 558.58551pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <./Imagenes/listas1.png> <./Imagenes/listas2.png>]
+<Imagenes/listas15.png, id=228, 536.0025pt x 277.035pt>
+File: Imagenes/listas15.png Graphic file (type png)
+<use Imagenes/listas15.png>
+Package pdftex.def Info: Imagenes/listas15.png  used on input line 124.
+(pdftex.def)             Requested size: 536.00119pt x 277.03432pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas16.png, id=229, 536.0025pt x 305.64188pt>
+File: Imagenes/listas16.png Graphic file (type png)
+<use Imagenes/listas16.png>
+Package pdftex.def Info: Imagenes/listas16.png  used on input line 132.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas17.png, id=230, 536.0025pt x 305.64188pt>
+File: Imagenes/listas17.png Graphic file (type png)
+<use Imagenes/listas17.png>
+Package pdftex.def Info: Imagenes/listas17.png  used on input line 140.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas18.png, id=231, 536.0025pt x 305.64188pt>
+File: Imagenes/listas18.png Graphic file (type png)
+<use Imagenes/listas18.png>
+Package pdftex.def Info: Imagenes/listas18.png  used on input line 148.
+(pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas19.png, id=232, 558.58687pt x 305.64188pt>
+File: Imagenes/listas19.png Graphic file (type png)
+<use Imagenes/listas19.png>
+Package pdftex.def Info: Imagenes/listas19.png  used on input line 156.
+(pdftex.def)             Requested size: 558.58551pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas20.png, id=233, 570.63188pt x 334.24875pt>
+File: Imagenes/listas20.png Graphic file (type png)
+<use Imagenes/listas20.png>
+Package pdftex.def Info: Imagenes/listas20.png  used on input line 164.
+(pdftex.def)             Requested size: 570.6305pt x 334.24792pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas21.png, id=234, 499.8675pt x 305.64188pt>
+File: Imagenes/listas21.png Graphic file (type png)
+<use Imagenes/listas21.png>
+Package pdftex.def Info: Imagenes/listas21.png  used on input line 172.
+(pdftex.def)             Requested size: 499.86627pt x 305.64111pt.
+[33 <./Imagenes/listas3.png> <./Imagenes/listas4.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas22.png, id=240, 1103.62312pt x 248.42813pt>
+File: Imagenes/listas22.png Graphic file (type png)
+<use Imagenes/listas22.png>
+Package pdftex.def Info: Imagenes/listas22.png  used on input line 186.
+(pdftex.def)             Requested size: 1103.62044pt x 248.42752pt.
+
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas23.png, id=241, 1103.62312pt x 305.64188pt>
+File: Imagenes/listas23.png Graphic file (type png)
+<use Imagenes/listas23.png>
+Package pdftex.def Info: Imagenes/listas23.png  used on input line 194.
+(pdftex.def)             Requested size: 1103.62044pt x 305.64111pt.
+
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 194--195
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas24.png, id=242, 1103.62312pt x 305.64188pt>
+File: Imagenes/listas24.png Graphic file (type png)
+<use Imagenes/listas24.png>
+Package pdftex.def Info: Imagenes/listas24.png  used on input line 202.
+(pdftex.def)             Requested size: 1103.62044pt x 305.64111pt.
+
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 202--203
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas25.png, id=243, 1370.11874pt x 305.64188pt>
+File: Imagenes/listas25.png Graphic file (type png)
+<use Imagenes/listas25.png>
+Package pdftex.def Info: Imagenes/listas25.png  used on input line 210.
+(pdftex.def)             Requested size: 1370.1154pt x 305.64111pt.
+
+Overfull \hbox (136.88155pt too wide) in paragraph at lines 210--211
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas26.png, id=244, 1079.53313pt x 305.64188pt>
+File: Imagenes/listas26.png Graphic file (type png)
+<use Imagenes/listas26.png>
+Package pdftex.def Info: Imagenes/listas26.png  used on input line 218.
+(pdftex.def)             Requested size: 1079.5305pt x 305.64111pt.
+
+Overfull \hbox (35.17506pt too wide) in paragraph at lines 218--219
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas27.png, id=245, 1079.53313pt x 305.64188pt>
+File: Imagenes/listas27.png Graphic file (type png)
+<use Imagenes/listas27.png>
+Package pdftex.def Info: Imagenes/listas27.png  used on input line 226.
+(pdftex.def)             Requested size: 1079.5305pt x 305.64111pt.
+
+Overfull \hbox (35.17506pt too wide) in paragraph at lines 226--227
+ [][] 
+ []
+
+[34 <./Imagenes/listas5.png> <./Imagenes/listas6.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/listas28.png, id=251, 1114.1625pt x 420.06938pt>
+File: Imagenes/listas28.png Graphic file (type png)
+<use Imagenes/listas28.png>
+Package pdftex.def Info: Imagenes/listas28.png  used on input line 234.
+(pdftex.def)             Requested size: 1114.15979pt x 420.06836pt.
+
+Overfull \hbox (47.29552pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (Funciones.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[33]
+[35 <./Imagenes/listas7.png> <./Imagenes/listas8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
@@ -634,12 +900,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-) (Manejo.tex) (Entrada.tex [34]
+) (Manejo.tex) (Entrada.tex [36 <./Imagenes/listas9.png> <./Imagenes/listas10.png>] [37 <./Imagenes/listas11.png> <./Imagenes/listas12.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-[35]
+[38 <./Imagenes/listas13.png> <./Imagenes/listas14.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -649,45 +915,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-) (Trabajo.tex
+[39 <./Imagenes/listas15.png> <./Imagenes/listas16.png>]) (Trabajo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[36]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-
+[40 <./Imagenes/listas17.png> <./Imagenes/listas18.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-
+[41 <./Imagenes/listas19.png> <./Imagenes/listas20.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[37]) [38]
-Overfull \vbox (210.16504pt too high) has occurred while \output is active []
+) [42 <./Imagenes/listas21.png> <./Imagenes/listas22.png>]
+Overfull \vbox (450.11752pt too high) has occurred while \output is active []
 
- [39] (libro.aux
+ [43 <./Imagenes/listas23.png> <./Imagenes/listas24.png>] [44 <./Imagenes/listas25.png> <./Imagenes/listas26.png> <./Imagenes/listas27.png> <./Imagenes/listas28.png>] (libro.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3355 strings out of 476331
- 59563 string characters out of 5786313
+ 3551 strings out of 476331
+ 64232 string characters out of 5786313
  1863660 words of memory out of 5000000
- 23719 multiletter control sequences out of 15000+600000
+ 23887 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (39 pages, 2380580 bytes).
+Output written on libro.pdf (44 pages, 3273391 bytes).
 PDF statistics:
- 531 PDF objects out of 1000 (max. 8388607)
+ 603 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
