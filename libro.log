@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,12 +143,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[4]
-<Imagenes/funadamentos1.png, id=18, 570.63188pt x 248.42813pt>
+<Imagenes/funadamentos1.png, id=15, 570.63188pt x 248.42813pt>
 File: Imagenes/funadamentos1.png Graphic file (type png)
 <use Imagenes/funadamentos1.png>
 Package pdftex.def Info: Imagenes/funadamentos1.png  used on input line 12.
 (pdftex.def)             Requested size: 570.6305pt x 248.42752pt.
+[4]
 <Imagenes/fundamentos2.png, id=20, 928.97063pt x 305.64188pt>
 File: Imagenes/fundamentos2.png Graphic file (type png)
 <use Imagenes/fundamentos2.png>
@@ -819,50 +819,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
+<Imagenes/funciones1.png, id=292, 615.80063pt x 277.035pt>
+File: Imagenes/funciones1.png Graphic file (type png)
+<use Imagenes/funciones1.png>
+Package pdftex.def Info: Imagenes/funciones1.png  used on input line 13.
+(pdftex.def)             Requested size: 615.79912pt x 277.03432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+<Imagenes/funciones2.png, id=293, 395.97937pt x 248.42813pt>
+File: Imagenes/funciones2.png Graphic file (type png)
+<use Imagenes/funciones2.png>
+Package pdftex.def Info: Imagenes/funciones2.png  used on input line 24.
+(pdftex.def)             Requested size: 395.97841pt x 248.42752pt.
+[41 <./Imagenes/listas28.png> <./Imagenes/funciones1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+<Imagenes/funciones3.png, id=299, 454.69875pt x 248.42813pt>
+File: Imagenes/funciones3.png Graphic file (type png)
+<use Imagenes/funciones3.png>
+Package pdftex.def Info: Imagenes/funciones3.png  used on input line 37.
+(pdftex.def)             Requested size: 454.69763pt x 248.42752pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
+<Imagenes/funciones4.png, id=300, 546.54187pt x 362.85562pt>
+File: Imagenes/funciones4.png Graphic file (type png)
+<use Imagenes/funciones4.png>
+Package pdftex.def Info: Imagenes/funciones4.png  used on input line 50.
+(pdftex.def)             Requested size: 546.54053pt x 362.85474pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-[41 <./Imagenes/listas28.png>]) (Manejo.tex) (Entrada.tex
-<Imagenes/entrada1.png, id=296, 395.97937pt x 277.035pt>
+[42 <./Imagenes/funciones2.png> <./Imagenes/funciones3.png>]
+<Imagenes/funciones5.png, id=307, 615.80063pt x 334.24875pt>
+File: Imagenes/funciones5.png Graphic file (type png)
+<use Imagenes/funciones5.png>
+Package pdftex.def Info: Imagenes/funciones5.png  used on input line 66.
+(pdftex.def)             Requested size: 615.79912pt x 334.24792pt.
+<Imagenes/funciones6.png, id=308, 778.40813pt x 334.24875pt>
+File: Imagenes/funciones6.png Graphic file (type png)
+<use Imagenes/funciones6.png>
+Package pdftex.def Info: Imagenes/funciones6.png  used on input line 74.
+(pdftex.def)             Requested size: 778.40623pt x 334.24792pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/funciones7.png, id=309, 662.475pt x 334.24875pt>
+File: Imagenes/funciones7.png Graphic file (type png)
+<use Imagenes/funciones7.png>
+Package pdftex.def Info: Imagenes/funciones7.png  used on input line 83.
+(pdftex.def)             Requested size: 662.47339pt x 334.24792pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (Manejo.tex) (Entrada.tex [43 <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>]
+<Imagenes/entrada1.png, id=316, 395.97937pt x 277.035pt>
 File: Imagenes/entrada1.png Graphic file (type png)
 <use Imagenes/entrada1.png>
 Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
 (pdftex.def)             Requested size: 395.97841pt x 277.03432pt.
-<Imagenes/entrada2.png, id=297, 373.395pt x 305.64188pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]
+<Imagenes/entrada2.png, id=322, 373.395pt x 305.64188pt>
 File: Imagenes/entrada2.png Graphic file (type png)
 <use Imagenes/entrada2.png>
 Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
 (pdftex.def)             Requested size: 373.39409pt x 305.64111pt.
- [42 <./Imagenes/entrada1.png>]
-<Imagenes/entrada3.png, id=303, 639.89063pt x 305.64188pt>
+<Imagenes/entrada3.png, id=323, 639.89063pt x 305.64188pt>
 File: Imagenes/entrada3.png Graphic file (type png)
 <use Imagenes/entrada3.png>
 Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
 (pdftex.def)             Requested size: 639.88905pt x 305.64111pt.
-<Imagenes/entrada4.png, id=304, 906.38625pt x 305.64188pt>
+<Imagenes/entrada4.png, id=324, 906.38625pt x 305.64188pt>
 File: Imagenes/entrada4.png Graphic file (type png)
 <use Imagenes/entrada4.png>
 Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
 (pdftex.def)             Requested size: 906.38403pt x 305.64111pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[43 <./Imagenes/entrada2.png> <./Imagenes/entrada3.png> <./Imagenes/entrada4.png>]
-<Imagenes/entrada5.png, id=312, 731.73375pt x 305.64188pt>
+[45 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
+<Imagenes/entrada5.png, id=331, 731.73375pt x 305.64188pt>
 File: Imagenes/entrada5.png Graphic file (type png)
 <use Imagenes/entrada5.png>
 Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
@@ -872,8 +936,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[44 <./Imagenes/entrada5.png>]
-<Imagenes/entrada6.png, id=317, 847.66687pt x 334.24875pt>
+[46 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>] [47]
+<Imagenes/entrada6.png, id=340, 847.66687pt x 334.24875pt>
 File: Imagenes/entrada6.png Graphic file (type png)
 <use Imagenes/entrada6.png>
 Package pdftex.def Info: Imagenes/entrada6.png  used on input line 77.
@@ -888,7 +952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-<Imagenes/entrada7.png, id=318, 894.34125pt x 334.24875pt>
+<Imagenes/entrada7.png, id=341, 894.34125pt x 334.24875pt>
 File: Imagenes/entrada7.png Graphic file (type png)
 <use Imagenes/entrada7.png>
 Package pdftex.def Info: Imagenes/entrada7.png  used on input line 89.
@@ -898,7 +962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[45 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
+[48 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -913,25 +977,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[46]) [47]
+[49]) [50]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
- [48] (libro.aux
+ [51] (libro.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3600 strings out of 476331
- 65415 string characters out of 5786313
+ 3649 strings out of 476331
+ 66696 string characters out of 5786313
  1863660 words of memory out of 5000000
- 23929 multiletter control sequences out of 15000+600000
+ 23971 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (48 pages, 3493538 bytes).
+Output written on libro.pdf (51 pages, 3687000 bytes).
 PDF statistics:
- 629 PDF objects out of 1000 (max. 8388607)
+ 652 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 431 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 466 words of extra memory for PDF output out of 10000 (max. 10000000)
 
