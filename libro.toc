@@ -33,12 +33,12 @@
 \contentsline {subsection}{\numberline {7.1}Definición y llamada de funciones}{41}{}%
 \contentsline {subsection}{\numberline {7.2}Argumentos y parámetros}{42}{}%
 \contentsline {subsection}{\numberline {7.3}Módulos y su importación}{43}{}%
-\contentsline {section}{\numberline {8}Manejo de excepciones y errores}{44}{}%
-\contentsline {subsection}{\numberline {8.1}Introducción a las excepciones}{44}{}%
-\contentsline {subsection}{\numberline {8.2}Uso de try, except, else}{44}{}%
-\contentsline {subsection}{\numberline {8.3}Tipos de excepciones y manejo específico}{44}{}%
-\contentsline {section}{\numberline {9}Entrada y salida de datos}{44}{}%
-\contentsline {subsection}{\numberline {9.1}Función print()}{44}{}%
+\contentsline {section}{\numberline {8}Manejo de excepciones y errores}{45}{}%
+\contentsline {subsection}{\numberline {8.1}Introducción a las excepciones}{45}{}%
+\contentsline {subsection}{\numberline {8.2}Uso de try, except, else}{45}{}%
+\contentsline {subsection}{\numberline {8.3}Tipos de excepciones y manejo específico}{45}{}%
+\contentsline {section}{\numberline {9}Entrada y salida de datos}{45}{}%
+\contentsline {subsection}{\numberline {9.1}Función print()}{45}{}%
 \contentsline {subsection}{\numberline {9.2}Función input()}{45}{}%
 \contentsline {subsection}{\numberline {9.3}Formateo de cadenas}{46}{}%
 \contentsline {section}{\numberline {10}Trabajo con archivos}{48}{}%

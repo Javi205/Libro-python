@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -824,99 +824,91 @@ File: Imagenes/funciones1.png Graphic file (type png)
 <use Imagenes/funciones1.png>
 Package pdftex.def Info: Imagenes/funciones1.png  used on input line 13.
 (pdftex.def)             Requested size: 615.79912pt x 277.03432pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[41 <./Imagenes/listas28.png> <./Imagenes/funciones1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-<Imagenes/funciones2.png, id=293, 395.97937pt x 248.42813pt>
+<Imagenes/funciones2.png, id=298, 395.97937pt x 248.42813pt>
 File: Imagenes/funciones2.png Graphic file (type png)
 <use Imagenes/funciones2.png>
-Package pdftex.def Info: Imagenes/funciones2.png  used on input line 24.
+Package pdftex.def Info: Imagenes/funciones2.png  used on input line 26.
 (pdftex.def)             Requested size: 395.97841pt x 248.42752pt.
-[41 <./Imagenes/listas28.png> <./Imagenes/funciones1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 <Imagenes/funciones3.png, id=299, 454.69875pt x 248.42813pt>
 File: Imagenes/funciones3.png Graphic file (type png)
 <use Imagenes/funciones3.png>
-Package pdftex.def Info: Imagenes/funciones3.png  used on input line 37.
+Package pdftex.def Info: Imagenes/funciones3.png  used on input line 39.
 (pdftex.def)             Requested size: 454.69763pt x 248.42752pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-<Imagenes/funciones4.png, id=300, 546.54187pt x 362.85562pt>
-File: Imagenes/funciones4.png Graphic file (type png)
-<use Imagenes/funciones4.png>
-Package pdftex.def Info: Imagenes/funciones4.png  used on input line 50.
-(pdftex.def)             Requested size: 546.54053pt x 362.85474pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 [42 <./Imagenes/funciones2.png> <./Imagenes/funciones3.png>]
+<Imagenes/funciones4.png, id=306, 546.54187pt x 362.85562pt>
+File: Imagenes/funciones4.png Graphic file (type png)
+<use Imagenes/funciones4.png>
+Package pdftex.def Info: Imagenes/funciones4.png  used on input line 54.
+(pdftex.def)             Requested size: 546.54053pt x 362.85474pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
 <Imagenes/funciones5.png, id=307, 615.80063pt x 334.24875pt>
 File: Imagenes/funciones5.png Graphic file (type png)
 <use Imagenes/funciones5.png>
-Package pdftex.def Info: Imagenes/funciones5.png  used on input line 66.
+Package pdftex.def Info: Imagenes/funciones5.png  used on input line 70.
 (pdftex.def)             Requested size: 615.79912pt x 334.24792pt.
-<Imagenes/funciones6.png, id=308, 778.40813pt x 334.24875pt>
+[43 <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>]
+<Imagenes/funciones6.png, id=314, 778.40813pt x 334.24875pt>
 File: Imagenes/funciones6.png Graphic file (type png)
 <use Imagenes/funciones6.png>
-Package pdftex.def Info: Imagenes/funciones6.png  used on input line 74.
+Package pdftex.def Info: Imagenes/funciones6.png  used on input line 78.
 (pdftex.def)             Requested size: 778.40623pt x 334.24792pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/funciones7.png, id=309, 662.475pt x 334.24875pt>
+<Imagenes/funciones7.png, id=315, 662.475pt x 334.24875pt>
 File: Imagenes/funciones7.png Graphic file (type png)
 <use Imagenes/funciones7.png>
-Package pdftex.def Info: Imagenes/funciones7.png  used on input line 83.
+Package pdftex.def Info: Imagenes/funciones7.png  used on input line 87.
 (pdftex.def)             Requested size: 662.47339pt x 334.24792pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Manejo.tex) (Entrada.tex [43 <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>]
-<Imagenes/entrada1.png, id=316, 395.97937pt x 277.035pt>
+) (Manejo.tex) (Entrada.tex [44 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]
+<Imagenes/entrada1.png, id=321, 395.97937pt x 277.035pt>
 File: Imagenes/entrada1.png Graphic file (type png)
 <use Imagenes/entrada1.png>
 Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
 (pdftex.def)             Requested size: 395.97841pt x 277.03432pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[44 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]
 <Imagenes/entrada2.png, id=322, 373.395pt x 305.64188pt>
 File: Imagenes/entrada2.png Graphic file (type png)
 <use Imagenes/entrada2.png>
 Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
 (pdftex.def)             Requested size: 373.39409pt x 305.64111pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <Imagenes/entrada3.png, id=323, 639.89063pt x 305.64188pt>
 File: Imagenes/entrada3.png Graphic file (type png)
 <use Imagenes/entrada3.png>
 Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
 (pdftex.def)             Requested size: 639.88905pt x 305.64111pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <Imagenes/entrada4.png, id=324, 906.38625pt x 305.64188pt>
 File: Imagenes/entrada4.png Graphic file (type png)
 <use Imagenes/entrada4.png>
 Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
 (pdftex.def)             Requested size: 906.38403pt x 305.64111pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -925,18 +917,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[45 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
-<Imagenes/entrada5.png, id=331, 731.73375pt x 305.64188pt>
+[45 <./Imagenes/entrada1.png>]
+<Imagenes/entrada5.png, id=329, 731.73375pt x 305.64188pt>
 File: Imagenes/entrada5.png Graphic file (type png)
 <use Imagenes/entrada5.png>
 Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
 (pdftex.def)             Requested size: 731.73196pt x 305.64111pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[46 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>] [47]
+[46 <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>] [47 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>]
 <Imagenes/entrada6.png, id=340, 847.66687pt x 334.24875pt>
 File: Imagenes/entrada6.png Graphic file (type png)
 <use Imagenes/entrada6.png>
@@ -993,7 +989,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (51 pages, 3687000 bytes).
+Output written on libro.pdf (51 pages, 3687089 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
