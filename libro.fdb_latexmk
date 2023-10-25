@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698243202 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698243210 0
+["pdflatex"] 1698251215 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698251222 0
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698241387 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1697032806 25420 ff57aa1f54674be2e50ed8eb7d554cc3 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1697032801 31952 f221e8b3e570b390b36be1edc22184bf ""
@@ -170,17 +170,17 @@
   "Imagenes/listas7.png" 1698155595 47567 0e2b4577a5ef99c6ffd409b2f114edc3 ""
   "Imagenes/listas8.png" 1698155632 47530 c07ded8cc2ec014f4db5774da3cfd4a5 ""
   "Imagenes/listas9.png" 1698155662 44790 18008838f1354b8cb5828d18d4e99d02 ""
-  "Instalacion.tex" 1698243121 3502 800fc71bf790bfe214adfc41597e7072 ""
+  "Instalacion.tex" 1698251214 4635 b88db91574098ccd3b921d2def751c13 ""
   "Introduccion.tex" 1697634183 3640 0c0eaccabbdfb3c6dc4f691ae996bee6 ""
   "Listas.tex" 1698238959 9568 44299231c3493309844b373039baebd9 ""
   "Manejo.tex" 1698153708 141 278a69ba0cc390bdb5d283127416c7f8 ""
   "Trabajo.tex" 1697635559 2562 44a77c9856ef43307f9502b69f9ad73c ""
   "Variables.tex" 1697634786 152 1e281630b15fb60df75f25d23b15de7e ""
-  "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" 1698243202 2396 95355179d80ec84d277427a9c83ae00d ""
-  "libro.aux" 1698243210 11239 30581ab2dd7c4816c86b1e57f71db884 "pdflatex"
-  "libro.out" 1698243210 16047 0a1d946f3080e6ad764465c7c7c176c4 "pdflatex"
-  "libro.tex" 1698243202 2396 95355179d80ec84d277427a9c83ae00d ""
-  "libro.toc" 1698243210 7354 c3f01e349d44147a065c0e97df9bde63 "pdflatex"
+  "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" 1698251214 2396 95355179d80ec84d277427a9c83ae00d ""
+  "libro.aux" 1698251222 11369 71a14921dc64e8f4e6dcb55b0f6f62a9 "pdflatex"
+  "libro.out" 1698251222 16226 f81336cfd36254cc80015b5ef173a1ff "pdflatex"
+  "libro.tex" 1698251214 2396 95355179d80ec84d277427a9c83ae00d ""
+  "libro.toc" 1698251222 7443 96e56bcb660856bc2b443fb56f996d96 "pdflatex"
   (generated)
   "libro.aux"
   "libro.log"

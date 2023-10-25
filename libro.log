@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -258,31 +258,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
  []
 
 [3]) (Instalacion.tex
-<Imagenes/instalacion1.png, id=415, 185.19188pt x 185.19188pt>
+<Imagenes/instalacion1.png, id=419, 185.19188pt x 185.19188pt>
 File: Imagenes/instalacion1.png Graphic file (type png)
 <use Imagenes/instalacion1.png>
 Package pdftex.def Info: Imagenes/instalacion1.png  used on input line 8.
 (pdftex.def)             Requested size: 185.1914pt x 185.1914pt.
-<Imagenes/instalacion2.png, id=416, 762.59906pt x 417.05812pt>
+<Imagenes/instalacion2.png, id=420, 762.59906pt x 417.05812pt>
 File: Imagenes/instalacion2.png Graphic file (type png)
 <use Imagenes/instalacion2.png>
 Package pdftex.def Info: Imagenes/instalacion2.png  used on input line 19.
 (pdftex.def)             Requested size: 762.5972pt x 417.0571pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/instalacion3.png, id=418, 495.35063pt x 300.3722pt>
+ [4 <./Imagenes/instalacion1.png>]
+<Imagenes/instalacion3.png, id=431, 495.35063pt x 300.3722pt>
 File: Imagenes/instalacion3.png Graphic file (type png)
 <use Imagenes/instalacion3.png>
 Package pdftex.def Info: Imagenes/instalacion3.png  used on input line 27.
 (pdftex.def)             Requested size: 495.34943pt x 300.37144pt.
-[4 <./Imagenes/instalacion1.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<Imagenes/instalacion4.png, id=428, 185.19188pt x 185.19188pt>
+<Imagenes/instalacion4.png, id=433, 185.19188pt x 185.19188pt>
 File: Imagenes/instalacion4.png Graphic file (type png)
 <use Imagenes/instalacion4.png>
 Package pdftex.def Info: Imagenes/instalacion4.png  used on input line 42.
@@ -290,49 +287,40 @@ Package pdftex.def Info: Imagenes/instalacion4.png  used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/instalacion5.png, id=430, 185.19188pt x 185.19188pt>
+[5 <./Imagenes/instalacion2.png> <./Imagenes/instalacion3.png>]
+<Imagenes/instalacion5.png, id=440, 185.19188pt x 185.19188pt>
 File: Imagenes/instalacion5.png Graphic file (type png)
 <use Imagenes/instalacion5.png>
 Package pdftex.def Info: Imagenes/instalacion5.png  used on input line 51.
 (pdftex.def)             Requested size: 185.1914pt x 185.1914pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/instalacion6.png, id=432, 185.19188pt x 185.19188pt>
+<Imagenes/instalacion6.png, id=442, 185.19188pt x 185.19188pt>
 File: Imagenes/instalacion6.png Graphic file (type png)
 <use Imagenes/instalacion6.png>
 Package pdftex.def Info: Imagenes/instalacion6.png  used on input line 60.
 (pdftex.def)             Requested size: 185.1914pt x 185.1914pt.
-[5 <./Imagenes/instalacion2.png> <./Imagenes/instalacion3.png>]
-<Imagenes/instalacion7.png, id=438, 454.69875pt x 248.42813pt>
+ [6 <./Imagenes/instalacion4.png> <./Imagenes/instalacion5.png> <./Imagenes/instalacion6.png>]
+<Imagenes/instalacion7.png, id=447, 454.69875pt x 248.42813pt>
 File: Imagenes/instalacion7.png Graphic file (type png)
 <use Imagenes/instalacion7.png>
-Package pdftex.def Info: Imagenes/instalacion7.png  used on input line 71.
+Package pdftex.def Info: Imagenes/instalacion7.png  used on input line 72.
 (pdftex.def)             Requested size: 454.69763pt x 248.42752pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 ) (Fundamentos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<Imagenes/funadamentos1.png, id=439, 570.63188pt x 248.42813pt>
+[7 <./Imagenes/instalacion7.png>]
+<Imagenes/funadamentos1.png, id=458, 570.63188pt x 248.42813pt>
 File: Imagenes/funadamentos1.png Graphic file (type png)
 <use Imagenes/funadamentos1.png>
 Package pdftex.def Info: Imagenes/funadamentos1.png  used on input line 12.
 (pdftex.def)             Requested size: 570.6305pt x 248.42752pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./Imagenes/instalacion4.png> <./Imagenes/instalacion5.png> <./Imagenes/instalacion6.png>]
-<Imagenes/fundamentos2.png, id=445, 928.97063pt x 305.64188pt>
+<Imagenes/fundamentos2.png, id=459, 928.97063pt x 305.64188pt>
 File: Imagenes/fundamentos2.png Graphic file (type png)
 <use Imagenes/fundamentos2.png>
 Package pdftex.def Info: Imagenes/fundamentos2.png  used on input line 24.
 (pdftex.def)             Requested size: 928.96837pt x 305.64111pt.
-<Imagenes/fundamentos3.png, id=446, 928.97063pt x 248.42813pt>
+<Imagenes/fundamentos3.png, id=460, 928.97063pt x 248.42813pt>
 File: Imagenes/fundamentos3.png Graphic file (type png)
 <use Imagenes/fundamentos3.png>
 Package pdftex.def Info: Imagenes/fundamentos3.png  used on input line 32.
@@ -341,8 +329,8 @@ Package pdftex.def Info: Imagenes/fundamentos3.png  used on input line 32.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <./Imagenes/instalacion7.png> <./Imagenes/funadamentos1.png> <./Imagenes/fundamentos2.png>]
-<Imagenes/fundamentos4.png, id=455, 477.28313pt x 305.64188pt>
+[8 <./Imagenes/funadamentos1.png> <./Imagenes/fundamentos2.png>]
+<Imagenes/fundamentos4.png, id=468, 477.28313pt x 305.64188pt>
 File: Imagenes/fundamentos4.png Graphic file (type png)
 <use Imagenes/fundamentos4.png>
 Package pdftex.def Info: Imagenes/fundamentos4.png  used on input line 48.
@@ -352,7 +340,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-<Imagenes/fundamentos5.png, id=456, 1044.90375pt x 477.28313pt>
+<Imagenes/fundamentos5.png, id=469, 1044.90375pt x 477.28313pt>
 File: Imagenes/fundamentos5.png Graphic file (type png)
 <use Imagenes/fundamentos5.png>
 Package pdftex.def Info: Imagenes/fundamentos5.png  used on input line 57.
@@ -370,7 +358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-<Imagenes/fundamentos6.png, id=457, 420.06938pt x 248.42813pt>
+<Imagenes/fundamentos6.png, id=470, 420.06938pt x 248.42813pt>
 File: Imagenes/fundamentos6.png Graphic file (type png)
 <use Imagenes/fundamentos6.png>
 Package pdftex.def Info: Imagenes/fundamentos6.png  used on input line 68.
@@ -383,7 +371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-<Imagenes/fundamentos7.png, id=458, 731.73375pt x 277.035pt>
+<Imagenes/fundamentos7.png, id=471, 731.73375pt x 277.035pt>
 File: Imagenes/fundamentos7.png Graphic file (type png)
 <use Imagenes/fundamentos7.png>
 Package pdftex.def Info: Imagenes/fundamentos7.png  used on input line 77.
@@ -391,13 +379,13 @@ Package pdftex.def Info: Imagenes/fundamentos7.png  used on input line 77.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./Imagenes/fundamentos3.png> <./Imagenes/fundamentos4.png>] [9 <./Imagenes/fundamentos5.png> <./Imagenes/fundamentos6.png>]
-<Imagenes/fundamentos8.png, id=471, 883.80188pt x 334.24875pt>
+[9 <./Imagenes/fundamentos3.png> <./Imagenes/fundamentos4.png>] [10 <./Imagenes/fundamentos5.png> <./Imagenes/fundamentos6.png>]
+<Imagenes/fundamentos8.png, id=484, 883.80188pt x 334.24875pt>
 File: Imagenes/fundamentos8.png Graphic file (type png)
 <use Imagenes/fundamentos8.png>
 Package pdftex.def Info: Imagenes/fundamentos8.png  used on input line 86.
 (pdftex.def)             Requested size: 883.79973pt x 334.24792pt.
-<Imagenes/fundamentos9.png, id=472, 1029.8475pt x 347.04657pt>
+<Imagenes/fundamentos9.png, id=485, 1029.8475pt x 347.04657pt>
 File: Imagenes/fundamentos9.png Graphic file (type png)
 <use Imagenes/fundamentos9.png>
 Package pdftex.def Info: Imagenes/fundamentos9.png  used on input line 99.
@@ -407,7 +395,7 @@ Overfull \hbox (17.78484pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
-<Imagenes/fundamentos10.png, id=473, 805.50937pt x 420.06938pt>
+<Imagenes/fundamentos10.png, id=486, 805.50937pt x 420.06938pt>
 File: Imagenes/fundamentos10.png Graphic file (type png)
 <use Imagenes/fundamentos10.png>
 Package pdftex.def Info: Imagenes/fundamentos10.png  used on input line 111.
@@ -415,8 +403,8 @@ Package pdftex.def Info: Imagenes/fundamentos10.png  used on input line 111.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <./Imagenes/fundamentos7.png> <./Imagenes/fundamentos8.png> <./Imagenes/fundamentos9.png>]
-<Imagenes/fundamentos11.png, id=481, 1040.38687pt x 511.9125pt>
+[11 <./Imagenes/fundamentos7.png> <./Imagenes/fundamentos8.png> <./Imagenes/fundamentos9.png>]
+<Imagenes/fundamentos11.png, id=494, 1040.38687pt x 511.9125pt>
 File: Imagenes/fundamentos11.png Graphic file (type png)
 <use Imagenes/fundamentos11.png>
 Package pdftex.def Info: Imagenes/fundamentos11.png  used on input line 121.
@@ -426,7 +414,7 @@ Overfull \hbox (21.47366pt too wide) in paragraph at lines 121--122
  [][] 
  []
 
-<Imagenes/fundamentos19.png, id=482, 905.3825pt x 521.95pt>
+<Imagenes/fundamentos19.png, id=495, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos19.png Graphic file (type png)
 <use Imagenes/fundamentos19.png>
 Package pdftex.def Info: Imagenes/fundamentos19.png  used on input line 136.
@@ -434,7 +422,7 @@ Package pdftex.def Info: Imagenes/fundamentos19.png  used on input line 136.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos20.png, id=483, 905.3825pt x 521.95pt>
+<Imagenes/fundamentos20.png, id=496, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos20.png Graphic file (type png)
 <use Imagenes/fundamentos20.png>
 Package pdftex.def Info: Imagenes/fundamentos20.png  used on input line 144.
@@ -442,7 +430,7 @@ Package pdftex.def Info: Imagenes/fundamentos20.png  used on input line 144.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos21.png, id=484, 905.3825pt x 521.95pt>
+<Imagenes/fundamentos21.png, id=497, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos21.png Graphic file (type png)
 <use Imagenes/fundamentos21.png>
 Package pdftex.def Info: Imagenes/fundamentos21.png  used on input line 152.
@@ -450,8 +438,8 @@ Package pdftex.def Info: Imagenes/fundamentos21.png  used on input line 152.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./Imagenes/fundamentos10.png> <./Imagenes/fundamentos11.png>]
-<Imagenes/fundamentos22.png, id=491, 905.3825pt x 521.95pt>
+[12 <./Imagenes/fundamentos10.png> <./Imagenes/fundamentos11.png>]
+<Imagenes/fundamentos22.png, id=504, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos22.png Graphic file (type png)
 <use Imagenes/fundamentos22.png>
 Package pdftex.def Info: Imagenes/fundamentos22.png  used on input line 160.
@@ -460,7 +448,7 @@ Package pdftex.def Info: Imagenes/fundamentos22.png  used on input line 160.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos23.png, id=492, 905.3825pt x 521.95pt>
+<Imagenes/fundamentos23.png, id=505, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos23.png Graphic file (type png)
 <use Imagenes/fundamentos23.png>
 Package pdftex.def Info: Imagenes/fundamentos23.png  used on input line 168.
@@ -468,8 +456,8 @@ Package pdftex.def Info: Imagenes/fundamentos23.png  used on input line 168.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <./Imagenes/fundamentos19.png>]
-<Imagenes/fundamentos24.png, id=498, 905.3825pt x 521.95pt>
+[13 <./Imagenes/fundamentos19.png>]
+<Imagenes/fundamentos24.png, id=512, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos24.png Graphic file (type png)
 <use Imagenes/fundamentos24.png>
 Package pdftex.def Info: Imagenes/fundamentos24.png  used on input line 176.
@@ -478,7 +466,7 @@ Package pdftex.def Info: Imagenes/fundamentos24.png  used on input line 176.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos25.png, id=499, 905.3825pt x 521.95pt>
+<Imagenes/fundamentos25.png, id=513, 905.3825pt x 521.95pt>
 File: Imagenes/fundamentos25.png Graphic file (type png)
 <use Imagenes/fundamentos25.png>
 Package pdftex.def Info: Imagenes/fundamentos25.png  used on input line 184.
@@ -486,8 +474,8 @@ Package pdftex.def Info: Imagenes/fundamentos25.png  used on input line 184.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <./Imagenes/fundamentos20.png>]
-<Imagenes/fundamentos26.png, id=506, 1021.8175pt x 712.6625pt>
+[14 <./Imagenes/fundamentos20.png>]
+<Imagenes/fundamentos26.png, id=519, 1021.8175pt x 712.6625pt>
 File: Imagenes/fundamentos26.png Graphic file (type png)
 <use Imagenes/fundamentos26.png>
 Package pdftex.def Info: Imagenes/fundamentos26.png  used on input line 201.
@@ -500,8 +488,8 @@ Overfull \hbox (14.97429pt too wide) in paragraph at lines 201--202
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <./Imagenes/fundamentos21.png>]
-<Imagenes/fundamentos27.png, id=512, 1005.7575pt x 712.6625pt>
+[15 <./Imagenes/fundamentos21.png>]
+<Imagenes/fundamentos27.png, id=525, 1005.7575pt x 712.6625pt>
 File: Imagenes/fundamentos27.png Graphic file (type png)
 <use Imagenes/fundamentos27.png>
 Package pdftex.def Info: Imagenes/fundamentos27.png  used on input line 209.
@@ -514,7 +502,7 @@ Overfull \hbox (9.35321pt too wide) in paragraph at lines 209--210
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos28.png, id=513, 1608.0075pt x 788.9475pt>
+<Imagenes/fundamentos28.png, id=526, 1608.0075pt x 788.9475pt>
 File: Imagenes/fundamentos28.png Graphic file (type png)
 <use Imagenes/fundamentos28.png>
 Package pdftex.def Info: Imagenes/fundamentos28.png  used on input line 217.
@@ -527,8 +515,8 @@ Overfull \hbox (58.66716pt too wide) in paragraph at lines 217--218
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15 <./Imagenes/fundamentos22.png>]
-<Imagenes/fundamentos29.png, id=519, 1608.0075pt x 827.09pt>
+[16 <./Imagenes/fundamentos22.png>]
+<Imagenes/fundamentos29.png, id=532, 1608.0075pt x 827.09pt>
 File: Imagenes/fundamentos29.png Graphic file (type png)
 <use Imagenes/fundamentos29.png>
 Package pdftex.def Info: Imagenes/fundamentos29.png  used on input line 225.
@@ -541,8 +529,8 @@ Overfull \hbox (58.66716pt too wide) in paragraph at lines 225--226
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <./Imagenes/fundamentos23.png>]
-<Imagenes/fundamentos30.png, id=525, 1624.0675pt x 788.9475pt>
+[17 <./Imagenes/fundamentos23.png>]
+<Imagenes/fundamentos30.png, id=538, 1624.0675pt x 788.9475pt>
 File: Imagenes/fundamentos30.png Graphic file (type png)
 <use Imagenes/fundamentos30.png>
 Package pdftex.def Info: Imagenes/fundamentos30.png  used on input line 233.
@@ -555,7 +543,7 @@ Overfull \hbox (62.68214pt too wide) in paragraph at lines 233--234
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos31.png, id=526, 1624.0675pt x 788.9475pt>
+<Imagenes/fundamentos31.png, id=539, 1624.0675pt x 788.9475pt>
 File: Imagenes/fundamentos31.png Graphic file (type png)
 <use Imagenes/fundamentos31.png>
 Package pdftex.def Info: Imagenes/fundamentos31.png  used on input line 241.
@@ -568,7 +556,7 @@ Overfull \hbox (62.68214pt too wide) in paragraph at lines 241--242
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos32.png, id=527, 1254.6875pt x 636.3775pt>
+<Imagenes/fundamentos32.png, id=540, 1254.6875pt x 636.3775pt>
 File: Imagenes/fundamentos32.png Graphic file (type png)
 <use Imagenes/fundamentos32.png>
 Package pdftex.def Info: Imagenes/fundamentos32.png  used on input line 256.
@@ -581,8 +569,8 @@ Overfull \hbox (96.48001pt too wide) in paragraph at lines 256--257
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17 <./Imagenes/fundamentos24.png>]
-<Imagenes/fundamentos33.png, id=533, 1284.8pt x 598.235pt>
+[18 <./Imagenes/fundamentos24.png>]
+<Imagenes/fundamentos33.png, id=546, 1284.8pt x 598.235pt>
 File: Imagenes/fundamentos33.png Graphic file (type png)
 <use Imagenes/fundamentos33.png>
 Package pdftex.def Info: Imagenes/fundamentos33.png  used on input line 264.
@@ -595,8 +583,8 @@ Overfull \hbox (107.01955pt too wide) in paragraph at lines 264--265
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18 <./Imagenes/fundamentos25.png>]
-<Imagenes/fundamentos34.png, id=539, 1284.8pt x 598.235pt>
+[19 <./Imagenes/fundamentos25.png>]
+<Imagenes/fundamentos34.png, id=553, 1284.8pt x 598.235pt>
 File: Imagenes/fundamentos34.png Graphic file (type png)
 <use Imagenes/fundamentos34.png>
 Package pdftex.def Info: Imagenes/fundamentos34.png  used on input line 272.
@@ -609,7 +597,7 @@ Overfull \hbox (107.01955pt too wide) in paragraph at lines 272--273
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos35.png, id=540, 1053.9375pt x 407.5225pt>
+<Imagenes/fundamentos35.png, id=554, 1053.9375pt x 407.5225pt>
 File: Imagenes/fundamentos35.png Graphic file (type png)
 <use Imagenes/fundamentos35.png>
 Package pdftex.def Info: Imagenes/fundamentos35.png  used on input line 285.
@@ -622,8 +610,8 @@ Overfull \hbox (26.21646pt too wide) in paragraph at lines 285--286
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19 <./Imagenes/fundamentos26.png>]
-<Imagenes/fundamentos36.png, id=547, 1146.2825pt x 483.8075pt>
+[20 <./Imagenes/fundamentos26.png>]
+<Imagenes/fundamentos36.png, id=560, 1146.2825pt x 483.8075pt>
 File: Imagenes/fundamentos36.png Graphic file (type png)
 <use Imagenes/fundamentos36.png>
 Package pdftex.def Info: Imagenes/fundamentos36.png  used on input line 293.
@@ -636,7 +624,7 @@ Overfull \hbox (58.53769pt too wide) in paragraph at lines 293--294
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos37.png, id=548, 1162.3425pt x 483.8075pt>
+<Imagenes/fundamentos37.png, id=561, 1162.3425pt x 483.8075pt>
 File: Imagenes/fundamentos37.png Graphic file (type png)
 <use Imagenes/fundamentos37.png>
 Package pdftex.def Info: Imagenes/fundamentos37.png  used on input line 301.
@@ -649,8 +637,8 @@ Overfull \hbox (64.15878pt too wide) in paragraph at lines 301--302
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./Imagenes/fundamentos27.png>]
-<Imagenes/fundamentos38.png, id=554, 1254.6875pt x 483.8075pt>
+[21 <./Imagenes/fundamentos27.png>]
+<Imagenes/fundamentos38.png, id=567, 1254.6875pt x 483.8075pt>
 File: Imagenes/fundamentos38.png Graphic file (type png)
 <use Imagenes/fundamentos38.png>
 Package pdftex.def Info: Imagenes/fundamentos38.png  used on input line 309.
@@ -663,7 +651,7 @@ Overfull \hbox (96.48001pt too wide) in paragraph at lines 309--310
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos39.png, id=555, 1208.515pt x 483.8075pt>
+<Imagenes/fundamentos39.png, id=568, 1208.515pt x 483.8075pt>
 File: Imagenes/fundamentos39.png Graphic file (type png)
 <use Imagenes/fundamentos39.png>
 Package pdftex.def Info: Imagenes/fundamentos39.png  used on input line 317.
@@ -676,8 +664,8 @@ Overfull \hbox (80.3194pt too wide) in paragraph at lines 317--318
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./Imagenes/fundamentos28.png>]
-<Imagenes/fundamentos40.png, id=561, 1268.74pt x 674.52pt>
+[22 <./Imagenes/fundamentos28.png>]
+<Imagenes/fundamentos40.png, id=574, 1268.74pt x 674.52pt>
 File: Imagenes/fundamentos40.png Graphic file (type png)
 <use Imagenes/fundamentos40.png>
 Package pdftex.def Info: Imagenes/fundamentos40.png  used on input line 330.
@@ -690,7 +678,7 @@ Overfull \hbox (37.62447pt too wide) in paragraph at lines 330--331
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos41.png, id=562, 1377.145pt x 674.52pt>
+<Imagenes/fundamentos41.png, id=575, 1377.145pt x 674.52pt>
 File: Imagenes/fundamentos41.png Graphic file (type png)
 <use Imagenes/fundamentos41.png>
 Package pdftex.def Info: Imagenes/fundamentos41.png  used on input line 338.
@@ -703,12 +691,12 @@ Overfull \hbox (56.29465pt too wide) in paragraph at lines 338--339
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./Imagenes/fundamentos29.png>]
+[23 <./Imagenes/fundamentos29.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 344--345
 
  []
 
-<Imagenes/fundamentos12.png, id=568, 1039.63406pt x 258.9675pt>
+<Imagenes/fundamentos12.png, id=581, 1039.63406pt x 258.9675pt>
 File: Imagenes/fundamentos12.png Graphic file (type png)
 <use Imagenes/fundamentos12.png>
 Package pdftex.def Info: Imagenes/fundamentos12.png  used on input line 350.
@@ -726,7 +714,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-<Imagenes/fundamentos13.png, id=569, 1037.37563pt x 323.70938pt>
+<Imagenes/fundamentos13.png, id=582, 1037.37563pt x 323.70938pt>
 File: Imagenes/fundamentos13.png Graphic file (type png)
 <use Imagenes/fundamentos13.png>
 Package pdftex.def Info: Imagenes/fundamentos13.png  used on input line 364.
@@ -739,8 +727,8 @@ Overfull \hbox (20.41971pt too wide) in paragraph at lines 364--365
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <./Imagenes/fundamentos30.png>]
-<Imagenes/fundamentos14.png, id=575, 1037.37563pt x 252.945pt>
+[24 <./Imagenes/fundamentos30.png>]
+<Imagenes/fundamentos14.png, id=588, 1037.37563pt x 252.945pt>
 File: Imagenes/fundamentos14.png Graphic file (type png)
 <use Imagenes/fundamentos14.png>
 Package pdftex.def Info: Imagenes/fundamentos14.png  used on input line 378.
@@ -753,7 +741,7 @@ Overfull \hbox (20.41971pt too wide) in paragraph at lines 378--379
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos15.png, id=576, 964.35281pt x 215.30438pt>
+<Imagenes/fundamentos15.png, id=589, 964.35281pt x 215.30438pt>
 File: Imagenes/fundamentos15.png Graphic file (type png)
 <use Imagenes/fundamentos15.png>
 Package pdftex.def Info: Imagenes/fundamentos15.png  used on input line 385.
@@ -761,7 +749,7 @@ Package pdftex.def Info: Imagenes/fundamentos15.png  used on input line 385.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos16.png, id=577, 876.27374pt x 277.035pt>
+<Imagenes/fundamentos16.png, id=590, 876.27374pt x 277.035pt>
 File: Imagenes/fundamentos16.png Graphic file (type png)
 <use Imagenes/fundamentos16.png>
 Package pdftex.def Info: Imagenes/fundamentos16.png  used on input line 392.
@@ -769,13 +757,13 @@ Package pdftex.def Info: Imagenes/fundamentos16.png  used on input line 392.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./Imagenes/fundamentos31.png>]
+[25 <./Imagenes/fundamentos31.png>]
 Overfull \hbox (5.00937pt too wide) in paragraph at lines 397--398
 []\T1/cmr/m/n/10 Los ope-ra-do-res y las ex-pre-sio-nes son com-po-nen-tes esen-cia-les en Python
  []
 
-[25 <./Imagenes/fundamentos32.png>] [26 <./Imagenes/fundamentos33.png>]
-<Imagenes/fundamentos17.png, id=595, 876.27374pt x 305.64188pt>
+[26 <./Imagenes/fundamentos32.png>] [27 <./Imagenes/fundamentos33.png>]
+<Imagenes/fundamentos17.png, id=608, 876.27374pt x 305.64188pt>
 File: Imagenes/fundamentos17.png Graphic file (type png)
 <use Imagenes/fundamentos17.png>
 Package pdftex.def Info: Imagenes/fundamentos17.png  used on input line 411.
@@ -784,7 +772,7 @@ Package pdftex.def Info: Imagenes/fundamentos17.png  used on input line 411.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/fundamentos18.png, id=596, 1038.88126pt x 237.13594pt>
+<Imagenes/fundamentos18.png, id=609, 1038.88126pt x 237.13594pt>
 File: Imagenes/fundamentos18.png Graphic file (type png)
 <use Imagenes/fundamentos18.png>
 Package pdftex.def Info: Imagenes/fundamentos18.png  used on input line 418.
@@ -802,15 +790,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[27 <./Imagenes/fundamentos34.png> <./Imagenes/fundamentos35.png>] [28 <./Imagenes/fundamentos36.png> <./Imagenes/fundamentos37.png>]
+[28 <./Imagenes/fundamentos34.png> <./Imagenes/fundamentos35.png>] [29 <./Imagenes/fundamentos36.png> <./Imagenes/fundamentos37.png>]
 Overfull \vbox (9.21158pt too high) has occurred while \output is active []
 
- [29 <./Imagenes/fundamentos38.png> <./Imagenes/fundamentos39.png>]
+ [30 <./Imagenes/fundamentos38.png> <./Imagenes/fundamentos39.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<Imagenes/estructura1.png, id=615, 462.22687pt x 274.02374pt>
+<Imagenes/estructura1.png, id=628, 462.22687pt x 274.02374pt>
 File: Imagenes/estructura1.png Graphic file (type png)
 <use Imagenes/estructura1.png>
 Package pdftex.def Info: Imagenes/estructura1.png  used on input line 11.
@@ -818,8 +806,8 @@ Package pdftex.def Info: Imagenes/estructura1.png  used on input line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30 <./Imagenes/fundamentos40.png>]
-<Imagenes/estructura2.png, id=621, 636.87938pt x 301.125pt>
+[31 <./Imagenes/fundamentos40.png>]
+<Imagenes/estructura2.png, id=635, 636.87938pt x 301.125pt>
 File: Imagenes/estructura2.png Graphic file (type png)
 <use Imagenes/estructura2.png>
 Package pdftex.def Info: Imagenes/estructura2.png  used on input line 20.
@@ -833,7 +821,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<Imagenes/estructura3.png, id=622, 593.21625pt x 328.22626pt>
+<Imagenes/estructura3.png, id=636, 593.21625pt x 328.22626pt>
 File: Imagenes/estructura3.png Graphic file (type png)
 <use Imagenes/estructura3.png>
 Package pdftex.def Info: Imagenes/estructura3.png  used on input line 33.
@@ -841,7 +829,7 @@ Package pdftex.def Info: Imagenes/estructura3.png  used on input line 33.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/estructura4.png, id=623, 636.87938pt x 382.42876pt>
+<Imagenes/estructura4.png, id=637, 636.87938pt x 382.42876pt>
 File: Imagenes/estructura4.png Graphic file (type png)
 <use Imagenes/estructura4.png>
 Package pdftex.def Info: Imagenes/estructura4.png  used on input line 42.
@@ -859,16 +847,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Imagenes/estructura5.png, id=624, 593.21625pt x 328.22626pt>
+<Imagenes/estructura5.png, id=638, 593.21625pt x 328.22626pt>
 File: Imagenes/estructura5.png Graphic file (type png)
 <use Imagenes/estructura5.png>
 Package pdftex.def Info: Imagenes/estructura5.png  used on input line 54.
 (pdftex.def)             Requested size: 593.2148pt x 328.22545pt.
-[31 <./Imagenes/fundamentos41.png> <./Imagenes/fundamentos12.png>]
+[32 <./Imagenes/fundamentos41.png> <./Imagenes/fundamentos12.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/estructura6.png, id=632, 636.87938pt x 436.63126pt>
+<Imagenes/estructura6.png, id=645, 636.87938pt x 436.63126pt>
 File: Imagenes/estructura6.png Graphic file (type png)
 <use Imagenes/estructura6.png>
 Package pdftex.def Info: Imagenes/estructura6.png  used on input line 63.
@@ -876,8 +864,8 @@ Package pdftex.def Info: Imagenes/estructura6.png  used on input line 63.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32 <./Imagenes/fundamentos13.png> <./Imagenes/fundamentos14.png>]
-<Imagenes/estructura7.png, id=639, 1017.8025pt x 274.02374pt>
+[33 <./Imagenes/fundamentos13.png> <./Imagenes/fundamentos14.png>]
+<Imagenes/estructura7.png, id=652, 1017.8025pt x 274.02374pt>
 File: Imagenes/estructura7.png Graphic file (type png)
 <use Imagenes/estructura7.png>
 Package pdftex.def Info: Imagenes/estructura7.png  used on input line 84.
@@ -890,7 +878,7 @@ Overfull \hbox (13.56902pt too wide) in paragraph at lines 84--85
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/estructura8.png, id=640, 516.42938pt x 274.02374pt>
+<Imagenes/estructura8.png, id=653, 516.42938pt x 274.02374pt>
 File: Imagenes/estructura8.png Graphic file (type png)
 <use Imagenes/estructura8.png>
 Package pdftex.def Info: Imagenes/estructura8.png  used on input line 92.
@@ -898,8 +886,8 @@ Package pdftex.def Info: Imagenes/estructura8.png  used on input line 92.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[33 <./Imagenes/fundamentos15.png> <./Imagenes/fundamentos16.png>]
-<Imagenes/estructura9.png, id=647, 1028.34187pt x 274.02374pt>
+[34 <./Imagenes/fundamentos15.png> <./Imagenes/fundamentos16.png>]
+<Imagenes/estructura9.png, id=660, 1028.34187pt x 274.02374pt>
 File: Imagenes/estructura9.png Graphic file (type png)
 <use Imagenes/estructura9.png>
 Package pdftex.def Info: Imagenes/estructura9.png  used on input line 100.
@@ -912,7 +900,7 @@ Overfull \hbox (17.25786pt too wide) in paragraph at lines 100--101
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/estructura10.png, id=648, 430.60875pt x 328.22626pt>
+<Imagenes/estructura10.png, id=661, 430.60875pt x 328.22626pt>
 File: Imagenes/estructura10.png Graphic file (type png)
 <use Imagenes/estructura10.png>
 Package pdftex.def Info: Imagenes/estructura10.png  used on input line 108.
@@ -921,7 +909,7 @@ Package pdftex.def Info: Imagenes/estructura10.png  used on input line 108.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (Listas.tex
-<Imagenes/listas1.png, id=649, 536.0025pt x 248.42813pt>
+<Imagenes/listas1.png, id=662, 536.0025pt x 248.42813pt>
 File: Imagenes/listas1.png Graphic file (type png)
 <use Imagenes/listas1.png>
 Package pdftex.def Info: Imagenes/listas1.png  used on input line 10.
@@ -930,8 +918,8 @@ Package pdftex.def Info: Imagenes/listas1.png  used on input line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34 <./Imagenes/fundamentos17.png> <./Imagenes/fundamentos18.png>]
-<Imagenes/listas2.png, id=656, 570.63188pt x 362.85562pt>
+[35 <./Imagenes/fundamentos17.png> <./Imagenes/fundamentos18.png>]
+<Imagenes/listas2.png, id=669, 570.63188pt x 362.85562pt>
 File: Imagenes/listas2.png Graphic file (type png)
 <use Imagenes/listas2.png>
 Package pdftex.def Info: Imagenes/listas2.png  used on input line 18.
@@ -940,7 +928,7 @@ Package pdftex.def Info: Imagenes/listas2.png  used on input line 18.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas3.png, id=657, 558.58687pt x 334.24875pt>
+<Imagenes/listas3.png, id=670, 558.58687pt x 334.24875pt>
 File: Imagenes/listas3.png Graphic file (type png)
 <use Imagenes/listas3.png>
 Package pdftex.def Info: Imagenes/listas3.png  used on input line 26.
@@ -948,8 +936,8 @@ Package pdftex.def Info: Imagenes/listas3.png  used on input line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <./Imagenes/estructura1.png> <./Imagenes/estructura2.png>]
-<Imagenes/listas4.png, id=664, 605.26125pt x 305.64188pt>
+[36 <./Imagenes/estructura1.png> <./Imagenes/estructura2.png>]
+<Imagenes/listas4.png, id=677, 605.26125pt x 305.64188pt>
 File: Imagenes/listas4.png Graphic file (type png)
 <use Imagenes/listas4.png>
 Package pdftex.def Info: Imagenes/listas4.png  used on input line 34.
@@ -958,7 +946,7 @@ Package pdftex.def Info: Imagenes/listas4.png  used on input line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas5.png, id=665, 605.26125pt x 305.64188pt>
+<Imagenes/listas5.png, id=678, 605.26125pt x 305.64188pt>
 File: Imagenes/listas5.png Graphic file (type png)
 <use Imagenes/listas5.png>
 Package pdftex.def Info: Imagenes/listas5.png  used on input line 42.
@@ -966,7 +954,7 @@ Package pdftex.def Info: Imagenes/listas5.png  used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas6.png, id=666, 536.0025pt x 305.64188pt>
+<Imagenes/listas6.png, id=679, 536.0025pt x 305.64188pt>
 File: Imagenes/listas6.png Graphic file (type png)
 <use Imagenes/listas6.png>
 Package pdftex.def Info: Imagenes/listas6.png  used on input line 50.
@@ -979,7 +967,7 @@ Overfull \hbox (4.1431pt too wide) in paragraph at lines 45--52
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas7.png, id=667, 536.0025pt x 305.64188pt>
+<Imagenes/listas7.png, id=680, 536.0025pt x 305.64188pt>
 File: Imagenes/listas7.png Graphic file (type png)
 <use Imagenes/listas7.png>
 Package pdftex.def Info: Imagenes/listas7.png  used on input line 57.
@@ -987,8 +975,8 @@ Package pdftex.def Info: Imagenes/listas7.png  used on input line 57.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36 <./Imagenes/estructura3.png> <./Imagenes/estructura4.png>]
-<Imagenes/listas8.png, id=674, 536.0025pt x 305.64188pt>
+[37 <./Imagenes/estructura3.png> <./Imagenes/estructura4.png>]
+<Imagenes/listas8.png, id=688, 536.0025pt x 305.64188pt>
 File: Imagenes/listas8.png Graphic file (type png)
 <use Imagenes/listas8.png>
 Package pdftex.def Info: Imagenes/listas8.png  used on input line 65.
@@ -997,7 +985,7 @@ Package pdftex.def Info: Imagenes/listas8.png  used on input line 65.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas9.png, id=675, 536.0025pt x 305.64188pt>
+<Imagenes/listas9.png, id=689, 536.0025pt x 305.64188pt>
 File: Imagenes/listas9.png Graphic file (type png)
 <use Imagenes/listas9.png>
 Package pdftex.def Info: Imagenes/listas9.png  used on input line 73.
@@ -1005,8 +993,8 @@ Package pdftex.def Info: Imagenes/listas9.png  used on input line 73.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[37 <./Imagenes/estructura5.png> <./Imagenes/estructura6.png>]
-<Imagenes/listas10.png, id=683, 570.63188pt x 334.24875pt>
+[38 <./Imagenes/estructura5.png> <./Imagenes/estructura6.png>]
+<Imagenes/listas10.png, id=696, 570.63188pt x 334.24875pt>
 File: Imagenes/listas10.png Graphic file (type png)
 <use Imagenes/listas10.png>
 Package pdftex.def Info: Imagenes/listas10.png  used on input line 81.
@@ -1015,7 +1003,7 @@ Package pdftex.def Info: Imagenes/listas10.png  used on input line 81.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas11.png, id=684, 570.63188pt x 305.64188pt>
+<Imagenes/listas11.png, id=697, 570.63188pt x 305.64188pt>
 File: Imagenes/listas11.png Graphic file (type png)
 <use Imagenes/listas11.png>
 Package pdftex.def Info: Imagenes/listas11.png  used on input line 89.
@@ -1023,7 +1011,7 @@ Package pdftex.def Info: Imagenes/listas11.png  used on input line 89.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas12.png, id=685, 837.1275pt x 305.64188pt>
+<Imagenes/listas12.png, id=698, 837.1275pt x 305.64188pt>
 File: Imagenes/listas12.png Graphic file (type png)
 <use Imagenes/listas12.png>
 Package pdftex.def Info: Imagenes/listas12.png  used on input line 96.
@@ -1031,8 +1019,8 @@ Package pdftex.def Info: Imagenes/listas12.png  used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38 <./Imagenes/estructura7.png> <./Imagenes/estructura8.png>]
-<Imagenes/listas13.png, id=692, 709.14937pt x 305.64188pt>
+[39 <./Imagenes/estructura7.png> <./Imagenes/estructura8.png>]
+<Imagenes/listas13.png, id=705, 709.14937pt x 305.64188pt>
 File: Imagenes/listas13.png Graphic file (type png)
 <use Imagenes/listas13.png>
 Package pdftex.def Info: Imagenes/listas13.png  used on input line 104.
@@ -1041,7 +1029,7 @@ Package pdftex.def Info: Imagenes/listas13.png  used on input line 104.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas14.png, id=693, 558.58687pt x 305.64188pt>
+<Imagenes/listas14.png, id=706, 558.58687pt x 305.64188pt>
 File: Imagenes/listas14.png Graphic file (type png)
 <use Imagenes/listas14.png>
 Package pdftex.def Info: Imagenes/listas14.png  used on input line 111.
@@ -1049,7 +1037,7 @@ Package pdftex.def Info: Imagenes/listas14.png  used on input line 111.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas15.png, id=694, 536.0025pt x 277.035pt>
+<Imagenes/listas15.png, id=707, 536.0025pt x 277.035pt>
 File: Imagenes/listas15.png Graphic file (type png)
 <use Imagenes/listas15.png>
 Package pdftex.def Info: Imagenes/listas15.png  used on input line 124.
@@ -1057,7 +1045,7 @@ Package pdftex.def Info: Imagenes/listas15.png  used on input line 124.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas16.png, id=695, 536.0025pt x 305.64188pt>
+<Imagenes/listas16.png, id=708, 536.0025pt x 305.64188pt>
 File: Imagenes/listas16.png Graphic file (type png)
 <use Imagenes/listas16.png>
 Package pdftex.def Info: Imagenes/listas16.png  used on input line 132.
@@ -1065,7 +1053,7 @@ Package pdftex.def Info: Imagenes/listas16.png  used on input line 132.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas17.png, id=696, 536.0025pt x 305.64188pt>
+<Imagenes/listas17.png, id=709, 536.0025pt x 305.64188pt>
 File: Imagenes/listas17.png Graphic file (type png)
 <use Imagenes/listas17.png>
 Package pdftex.def Info: Imagenes/listas17.png  used on input line 140.
@@ -1073,7 +1061,7 @@ Package pdftex.def Info: Imagenes/listas17.png  used on input line 140.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas18.png, id=697, 536.0025pt x 305.64188pt>
+<Imagenes/listas18.png, id=710, 536.0025pt x 305.64188pt>
 File: Imagenes/listas18.png Graphic file (type png)
 <use Imagenes/listas18.png>
 Package pdftex.def Info: Imagenes/listas18.png  used on input line 148.
@@ -1081,8 +1069,8 @@ Package pdftex.def Info: Imagenes/listas18.png  used on input line 148.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
-<Imagenes/listas19.png, id=704, 558.58687pt x 305.64188pt>
+[40 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
+<Imagenes/listas19.png, id=717, 558.58687pt x 305.64188pt>
 File: Imagenes/listas19.png Graphic file (type png)
 <use Imagenes/listas19.png>
 Package pdftex.def Info: Imagenes/listas19.png  used on input line 157.
@@ -1091,7 +1079,7 @@ Package pdftex.def Info: Imagenes/listas19.png  used on input line 157.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas20.png, id=705, 570.63188pt x 334.24875pt>
+<Imagenes/listas20.png, id=718, 570.63188pt x 334.24875pt>
 File: Imagenes/listas20.png Graphic file (type png)
 <use Imagenes/listas20.png>
 Package pdftex.def Info: Imagenes/listas20.png  used on input line 165.
@@ -1099,7 +1087,7 @@ Package pdftex.def Info: Imagenes/listas20.png  used on input line 165.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas21.png, id=706, 499.8675pt x 305.64188pt>
+<Imagenes/listas21.png, id=719, 499.8675pt x 305.64188pt>
 File: Imagenes/listas21.png Graphic file (type png)
 <use Imagenes/listas21.png>
 Package pdftex.def Info: Imagenes/listas21.png  used on input line 173.
@@ -1107,7 +1095,7 @@ Package pdftex.def Info: Imagenes/listas21.png  used on input line 173.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas22.png, id=707, 1103.62312pt x 248.42813pt>
+<Imagenes/listas22.png, id=720, 1103.62312pt x 248.42813pt>
 File: Imagenes/listas22.png Graphic file (type png)
 <use Imagenes/listas22.png>
 Package pdftex.def Info: Imagenes/listas22.png  used on input line 187.
@@ -1120,7 +1108,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 187--188
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas23.png, id=708, 1103.62312pt x 305.64188pt>
+<Imagenes/listas23.png, id=721, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas23.png Graphic file (type png)
 <use Imagenes/listas23.png>
 Package pdftex.def Info: Imagenes/listas23.png  used on input line 195.
@@ -1133,7 +1121,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 195--196
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas24.png, id=709, 1103.62312pt x 305.64188pt>
+<Imagenes/listas24.png, id=722, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas24.png Graphic file (type png)
 <use Imagenes/listas24.png>
 Package pdftex.def Info: Imagenes/listas24.png  used on input line 203.
@@ -1146,7 +1134,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 203--204
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas25.png, id=710, 1370.11874pt x 305.64188pt>
+<Imagenes/listas25.png, id=723, 1370.11874pt x 305.64188pt>
 File: Imagenes/listas25.png Graphic file (type png)
 <use Imagenes/listas25.png>
 Package pdftex.def Info: Imagenes/listas25.png  used on input line 211.
@@ -1156,11 +1144,11 @@ Overfull \hbox (68.03833pt too wide) in paragraph at lines 211--212
  [][] 
  []
 
-[40 <./Imagenes/listas1.png> <./Imagenes/listas2.png>]
+[41 <./Imagenes/listas1.png> <./Imagenes/listas2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas26.png, id=717, 1079.53313pt x 305.64188pt>
+<Imagenes/listas26.png, id=730, 1079.53313pt x 305.64188pt>
 File: Imagenes/listas26.png Graphic file (type png)
 <use Imagenes/listas26.png>
 Package pdftex.def Info: Imagenes/listas26.png  used on input line 219.
@@ -1173,7 +1161,7 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 219--220
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas27.png, id=718, 1079.53313pt x 305.64188pt>
+<Imagenes/listas27.png, id=731, 1079.53313pt x 305.64188pt>
 File: Imagenes/listas27.png Graphic file (type png)
 <use Imagenes/listas27.png>
 Package pdftex.def Info: Imagenes/listas27.png  used on input line 227.
@@ -1186,8 +1174,8 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 227--228
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41 <./Imagenes/listas3.png> <./Imagenes/listas4.png>]
-<Imagenes/listas28.png, id=725, 1114.1625pt x 420.06938pt>
+[42 <./Imagenes/listas3.png> <./Imagenes/listas4.png>]
+<Imagenes/listas28.png, id=738, 1114.1625pt x 420.06938pt>
 File: Imagenes/listas28.png Graphic file (type png)
 <use Imagenes/listas28.png>
 Package pdftex.def Info: Imagenes/listas28.png  used on input line 236.
@@ -1205,7 +1193,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<Imagenes/funciones1.png, id=726, 615.80063pt x 277.035pt>
+<Imagenes/funciones1.png, id=739, 615.80063pt x 277.035pt>
 File: Imagenes/funciones1.png Graphic file (type png)
 <use Imagenes/funciones1.png>
 Package pdftex.def Info: Imagenes/funciones1.png  used on input line 13.
@@ -1213,12 +1201,12 @@ Package pdftex.def Info: Imagenes/funciones1.png  used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42 <./Imagenes/listas5.png> <./Imagenes/listas6.png>]
+[43 <./Imagenes/listas5.png> <./Imagenes/listas6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-<Imagenes/funciones2.png, id=733, 395.97937pt x 248.42813pt>
+<Imagenes/funciones2.png, id=747, 395.97937pt x 248.42813pt>
 File: Imagenes/funciones2.png Graphic file (type png)
 <use Imagenes/funciones2.png>
 Package pdftex.def Info: Imagenes/funciones2.png  used on input line 26.
@@ -1231,7 +1219,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<Imagenes/funciones3.png, id=734, 454.69875pt x 248.42813pt>
+<Imagenes/funciones3.png, id=748, 454.69875pt x 248.42813pt>
 File: Imagenes/funciones3.png Graphic file (type png)
 <use Imagenes/funciones3.png>
 Package pdftex.def Info: Imagenes/funciones3.png  used on input line 39.
@@ -1249,8 +1237,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[43 <./Imagenes/listas7.png> <./Imagenes/listas8.png>]
-<Imagenes/funciones4.png, id=743, 546.54187pt x 362.85562pt>
+[44 <./Imagenes/listas7.png> <./Imagenes/listas8.png>]
+<Imagenes/funciones4.png, id=756, 546.54187pt x 362.85562pt>
 File: Imagenes/funciones4.png Graphic file (type png)
 <use Imagenes/funciones4.png>
 Package pdftex.def Info: Imagenes/funciones4.png  used on input line 54.
@@ -1264,7 +1252,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-<Imagenes/funciones5.png, id=744, 615.80063pt x 334.24875pt>
+<Imagenes/funciones5.png, id=757, 615.80063pt x 334.24875pt>
 File: Imagenes/funciones5.png Graphic file (type png)
 <use Imagenes/funciones5.png>
 Package pdftex.def Info: Imagenes/funciones5.png  used on input line 70.
@@ -1272,8 +1260,8 @@ Package pdftex.def Info: Imagenes/funciones5.png  used on input line 70.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44 <./Imagenes/listas9.png> <./Imagenes/listas10.png>]
-<Imagenes/funciones6.png, id=751, 778.40813pt x 334.24875pt>
+[45 <./Imagenes/listas9.png> <./Imagenes/listas10.png>]
+<Imagenes/funciones6.png, id=764, 778.40813pt x 334.24875pt>
 File: Imagenes/funciones6.png Graphic file (type png)
 <use Imagenes/funciones6.png>
 Package pdftex.def Info: Imagenes/funciones6.png  used on input line 78.
@@ -1282,7 +1270,7 @@ Package pdftex.def Info: Imagenes/funciones6.png  used on input line 78.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/funciones7.png, id=752, 662.475pt x 334.24875pt>
+<Imagenes/funciones7.png, id=765, 662.475pt x 334.24875pt>
 File: Imagenes/funciones7.png Graphic file (type png)
 <use Imagenes/funciones7.png>
 Package pdftex.def Info: Imagenes/funciones7.png  used on input line 87.
@@ -1290,8 +1278,8 @@ Package pdftex.def Info: Imagenes/funciones7.png  used on input line 87.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Manejo.tex) (Entrada.tex [45 <./Imagenes/listas11.png> <./Imagenes/listas12.png>]
-<Imagenes/entrada1.png, id=759, 395.97937pt x 277.035pt>
+) (Manejo.tex) (Entrada.tex [46 <./Imagenes/listas11.png> <./Imagenes/listas12.png>]
+<Imagenes/entrada1.png, id=772, 395.97937pt x 277.035pt>
 File: Imagenes/entrada1.png Graphic file (type png)
 <use Imagenes/entrada1.png>
 Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
@@ -1300,7 +1288,7 @@ Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/entrada2.png, id=760, 373.395pt x 305.64188pt>
+<Imagenes/entrada2.png, id=773, 373.395pt x 305.64188pt>
 File: Imagenes/entrada2.png Graphic file (type png)
 <use Imagenes/entrada2.png>
 Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
@@ -1308,7 +1296,7 @@ Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/entrada3.png, id=761, 639.89063pt x 305.64188pt>
+<Imagenes/entrada3.png, id=774, 639.89063pt x 305.64188pt>
 File: Imagenes/entrada3.png Graphic file (type png)
 <use Imagenes/entrada3.png>
 Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
@@ -1316,7 +1304,7 @@ Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/entrada4.png, id=762, 906.38625pt x 305.64188pt>
+<Imagenes/entrada4.png, id=775, 906.38625pt x 305.64188pt>
 File: Imagenes/entrada4.png Graphic file (type png)
 <use Imagenes/entrada4.png>
 Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
@@ -1329,8 +1317,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[46 <./Imagenes/listas13.png> <./Imagenes/listas14.png>]
-<Imagenes/entrada5.png, id=769, 731.73375pt x 305.64188pt>
+[47 <./Imagenes/listas13.png> <./Imagenes/listas14.png>]
+<Imagenes/entrada5.png, id=782, 731.73375pt x 305.64188pt>
 File: Imagenes/entrada5.png Graphic file (type png)
 <use Imagenes/entrada5.png>
 Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
@@ -1344,8 +1332,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[47 <./Imagenes/listas15.png> <./Imagenes/listas16.png>] [48 <./Imagenes/listas17.png> <./Imagenes/listas18.png>]
-<Imagenes/entrada6.png, id=782, 847.66687pt x 334.24875pt>
+[48 <./Imagenes/listas15.png> <./Imagenes/listas16.png>] [49 <./Imagenes/listas17.png> <./Imagenes/listas18.png>]
+<Imagenes/entrada6.png, id=796, 847.66687pt x 334.24875pt>
 File: Imagenes/entrada6.png Graphic file (type png)
 <use Imagenes/entrada6.png>
 Package pdftex.def Info: Imagenes/entrada6.png  used on input line 77.
@@ -1364,7 +1352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-<Imagenes/entrada7.png, id=783, 894.34125pt x 334.24875pt>
+<Imagenes/entrada7.png, id=797, 894.34125pt x 334.24875pt>
 File: Imagenes/entrada7.png Graphic file (type png)
 <use Imagenes/entrada7.png>
 Package pdftex.def Info: Imagenes/entrada7.png  used on input line 89.
@@ -1377,7 +1365,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[49 <./Imagenes/listas19.png> <./Imagenes/listas20.png>]
+[50 <./Imagenes/listas19.png> <./Imagenes/listas20.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -1387,33 +1375,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-[50 <./Imagenes/listas21.png> <./Imagenes/listas22.png>]
+[51 <./Imagenes/listas21.png> <./Imagenes/listas22.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-) [51 <./Imagenes/listas23.png> <./Imagenes/listas24.png>] [52 <./Imagenes/listas25.png> <./Imagenes/listas26.png>]
+) [52 <./Imagenes/listas23.png> <./Imagenes/listas24.png>] [53 <./Imagenes/listas25.png> <./Imagenes/listas26.png>]
 Overfull \vbox (490.16777pt too high) has occurred while \output is active []
 
- [53 <./Imagenes/listas27.png> <./Imagenes/listas28.png>] [54 <./Imagenes/funciones1.png> <./Imagenes/funciones2.png> <./Imagenes/funciones3.png> <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>] [55 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png> <./Imagenes/entrada1.png> <./Imagenes/entrada2.png>] [56 <./Imagenes/entrada3.png> <./Imagenes/entrada4.png> <./Imagenes/entrada5.png> <./Imagenes/entrada6.png>] [57 <./Imagenes/entrada7.png>] (libro.aux
+ [54 <./Imagenes/listas27.png> <./Imagenes/listas28.png>] [55 <./Imagenes/funciones1.png> <./Imagenes/funciones2.png> <./Imagenes/funciones3.png> <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>] [56 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png> <./Imagenes/entrada1.png> <./Imagenes/entrada2.png>] [57 <./Imagenes/entrada3.png> <./Imagenes/entrada4.png> <./Imagenes/entrada5.png> <./Imagenes/entrada6.png>] [58 <./Imagenes/entrada7.png>] (libro.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 Package rerunfilecheck Info: File `libro.out' has not changed.
-(rerunfilecheck)             Checksum: 0A1D946F3080E6AD764465C7C7C176C4;16047.
+(rerunfilecheck)             Checksum: F81336CFD36254CC80015B5EF173A1FF;16226.
  ) 
 Here is how much of TeX's memory you used:
- 10688 strings out of 476331
- 179208 string characters out of 5786313
- 1871660 words of memory out of 5000000
- 30753 multiletter control sequences out of 15000+600000
+ 10691 strings out of 476331
+ 179245 string characters out of 5786313
+ 1870660 words of memory out of 5000000
+ 30754 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,76p,761b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (57 pages, 4029823 bytes).
+Output written on libro.pdf (58 pages, 4034854 bytes).
 PDF statistics:
- 1172 PDF objects out of 1200 (max. 8388607)
- 143 named destinations out of 1000 (max. 500000)
- 1125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1192 PDF objects out of 1200 (max. 8388607)
+ 145 named destinations out of 1000 (max. 500000)
+ 1133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
