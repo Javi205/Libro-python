@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  24 OCT 2023 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  25 OCT 2023 10:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -803,20 +803,18 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 227--228
  [][] 
  []
 
-<Imagenes/listas28.png, id=285, 1114.1625pt x 420.06938pt>
+[40 <./Imagenes/listas25.png> <./Imagenes/listas26.png> <./Imagenes/listas27.png>]
+<Imagenes/listas28.png, id=291, 1114.1625pt x 420.06938pt>
 File: Imagenes/listas28.png Graphic file (type png)
 <use Imagenes/listas28.png>
-Package pdftex.def Info: Imagenes/listas28.png  used on input line 235.
+Package pdftex.def Info: Imagenes/listas28.png  used on input line 236.
 (pdftex.def)             Requested size: 1114.15979pt x 420.06836pt.
 
-Overfull \hbox (47.29552pt too wide) in paragraph at lines 235--236
+Overfull \hbox (47.29552pt too wide) in paragraph at lines 236--237
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Funciones.tex [40 <./Imagenes/listas25.png> <./Imagenes/listas26.png> <./Imagenes/listas27.png>]
+) (Funciones.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -837,26 +835,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
  []
 
 [41 <./Imagenes/listas28.png>]) (Manejo.tex) (Entrada.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+<Imagenes/entrada1.png, id=296, 395.97937pt x 277.035pt>
+File: Imagenes/entrada1.png Graphic file (type png)
+<use Imagenes/entrada1.png>
+Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
+(pdftex.def)             Requested size: 395.97841pt x 277.03432pt.
+<Imagenes/entrada2.png, id=297, 373.395pt x 305.64188pt>
+File: Imagenes/entrada2.png Graphic file (type png)
+<use Imagenes/entrada2.png>
+Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
+(pdftex.def)             Requested size: 373.39409pt x 305.64111pt.
+ [42 <./Imagenes/entrada1.png>]
+<Imagenes/entrada3.png, id=303, 639.89063pt x 305.64188pt>
+File: Imagenes/entrada3.png Graphic file (type png)
+<use Imagenes/entrada3.png>
+Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
+(pdftex.def)             Requested size: 639.88905pt x 305.64111pt.
+<Imagenes/entrada4.png, id=304, 906.38625pt x 305.64188pt>
+File: Imagenes/entrada4.png Graphic file (type png)
+<use Imagenes/entrada4.png>
+Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
+(pdftex.def)             Requested size: 906.38403pt x 305.64111pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[43 <./Imagenes/entrada2.png> <./Imagenes/entrada3.png> <./Imagenes/entrada4.png>]
+<Imagenes/entrada5.png, id=312, 731.73375pt x 305.64188pt>
+File: Imagenes/entrada5.png Graphic file (type png)
+<use Imagenes/entrada5.png>
+Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
+(pdftex.def)             Requested size: 731.73196pt x 305.64111pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[44 <./Imagenes/entrada5.png>]
+<Imagenes/entrada6.png, id=317, 847.66687pt x 334.24875pt>
+File: Imagenes/entrada6.png Graphic file (type png)
+<use Imagenes/entrada6.png>
+Package pdftex.def Info: Imagenes/entrada6.png  used on input line 77.
+(pdftex.def)             Requested size: 847.6648pt x 334.24792pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
+<Imagenes/entrada7.png, id=318, 894.34125pt x 334.24875pt>
+File: Imagenes/entrada7.png Graphic file (type png)
+<use Imagenes/entrada7.png>
+Package pdftex.def Info: Imagenes/entrada7.png  used on input line 89.
+(pdftex.def)             Requested size: 894.33907pt x 334.24792pt.
 ) (Trabajo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[43]
+[45 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -871,25 +913,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[44]) [45]
+[46]) [47]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
- [46] (libro.aux
+ [48] (libro.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3551 strings out of 476331
- 64232 string characters out of 5786313
+ 3600 strings out of 476331
+ 65415 string characters out of 5786313
  1863660 words of memory out of 5000000
- 23887 multiletter control sequences out of 15000+600000
+ 23929 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,62p,752b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (46 pages, 3274083 bytes).
+Output written on libro.pdf (48 pages, 3493538 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
+ 629 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 396 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
 
