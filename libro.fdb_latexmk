@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698251215 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698251222 0
+["pdflatex"] 1698756109 "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" "libro.pdf" "libro" 1698756116 0
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698241387 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1697032806 25420 ff57aa1f54674be2e50ed8eb7d554cc3 ""
   "C:/Users/Enlace 3/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1697032801 31952 f221e8b3e570b390b36be1edc22184bf ""
@@ -69,7 +69,7 @@
   "Entrada.tex" 1698239176 4766 69244e1abfe0e770512d57a25470aa40 ""
   "Estructuras.tex" 1698154906 5187 3b2f57ece0ef87a16cace4905b53f33a ""
   "Funciones.tex" 1698240756 4581 3e5c43de6ca6c48f9a792fa37b3dbac6 ""
-  "Fundamentos.tex" 1698153485 18620 1a5423ee6212780d90f303ee647237d2 ""
+  "Fundamentos.tex" 1698756099 18628 d60274904bc1001764e71aec0f86412d ""
   "Imagenes/entrada1.png" 1698238297 39359 577cc8d11270813d7f5b1e4055145c3b ""
   "Imagenes/entrada2.png" 1698238370 41446 bd70fa31f261687e79e0f5d76ec752bc ""
   "Imagenes/entrada3.png" 1698238411 51071 50edeadbbbfebd6de340f7074d197e6b ""
@@ -177,10 +177,10 @@
   "Trabajo.tex" 1697635559 2562 44a77c9856ef43307f9502b69f9ad73c ""
   "Variables.tex" 1697634786 152 1e281630b15fb60df75f25d23b15de7e ""
   "c:/Users/Enlace 3/Desktop/Libro python/libro.tex" 1698251214 2396 95355179d80ec84d277427a9c83ae00d ""
-  "libro.aux" 1698251222 11369 71a14921dc64e8f4e6dcb55b0f6f62a9 "pdflatex"
-  "libro.out" 1698251222 16226 f81336cfd36254cc80015b5ef173a1ff "pdflatex"
+  "libro.aux" 1698756115 11369 b1df86eb1cee9a9d832ef06404d81f49 "pdflatex"
+  "libro.out" 1698756115 16226 f81336cfd36254cc80015b5ef173a1ff "pdflatex"
   "libro.tex" 1698251214 2396 95355179d80ec84d277427a9c83ae00d ""
-  "libro.toc" 1698251222 7443 96e56bcb660856bc2b443fb56f996d96 "pdflatex"
+  "libro.toc" 1698756115 7443 e9701716ea4a3d1a4a76e1a230311c78 "pdflatex"
   (generated)
   "libro.aux"
   "libro.log"
