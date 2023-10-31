@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  31 OCT 2023 09:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  31 OCT 2023 10:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -697,23 +697,33 @@ Overfull \hbox (20.94669pt too wide) in paragraph at lines 418--419
  [][] 
  []
 
-) (Variables.tex) (Estructuras.tex
+) (Variables.tex [29 <./Imagenes/fundamentos17.png> <./Imagenes/fundamentos18.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[30]) (Estructuras.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[29 <./Imagenes/fundamentos17.png> <./Imagenes/fundamentos18.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<Imagenes/estructura1.png, id=633, 462.22687pt x 274.02374pt>
+<Imagenes/estructura1.png, id=637, 462.22687pt x 274.02374pt>
 File: Imagenes/estructura1.png Graphic file (type png)
 <use Imagenes/estructura1.png>
 Package pdftex.def Info: Imagenes/estructura1.png  used on input line 11.
 (pdftex.def)             Requested size: 462.22574pt x 274.02307pt.
-[30 <./Imagenes/estructura1.png>]
-<Imagenes/estructura2.png, id=639, 636.87938pt x 301.125pt>
+[31 <./Imagenes/estructura1.png>]
+<Imagenes/estructura2.png, id=644, 636.87938pt x 301.125pt>
 File: Imagenes/estructura2.png Graphic file (type png)
 <use Imagenes/estructura2.png>
 Package pdftex.def Info: Imagenes/estructura2.png  used on input line 20.
@@ -723,12 +733,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<Imagenes/estructura3.png, id=640, 593.21625pt x 328.22626pt>
+<Imagenes/estructura3.png, id=645, 593.21625pt x 328.22626pt>
 File: Imagenes/estructura3.png Graphic file (type png)
 <use Imagenes/estructura3.png>
 Package pdftex.def Info: Imagenes/estructura3.png  used on input line 33.
 (pdftex.def)             Requested size: 593.2148pt x 328.22545pt.
-<Imagenes/estructura4.png, id=641, 636.87938pt x 382.42876pt>
+<Imagenes/estructura4.png, id=646, 636.87938pt x 382.42876pt>
 File: Imagenes/estructura4.png Graphic file (type png)
 <use Imagenes/estructura4.png>
 Package pdftex.def Info: Imagenes/estructura4.png  used on input line 42.
@@ -738,23 +748,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[31 <./Imagenes/estructura2.png> <./Imagenes/estructura3.png> <./Imagenes/estructura4.png>]
+[32 <./Imagenes/estructura2.png> <./Imagenes/estructura3.png> <./Imagenes/estructura4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Imagenes/estructura5.png, id=650, 593.21625pt x 328.22626pt>
+<Imagenes/estructura5.png, id=654, 593.21625pt x 328.22626pt>
 File: Imagenes/estructura5.png Graphic file (type png)
 <use Imagenes/estructura5.png>
 Package pdftex.def Info: Imagenes/estructura5.png  used on input line 54.
 (pdftex.def)             Requested size: 593.2148pt x 328.22545pt.
-<Imagenes/estructura6.png, id=651, 636.87938pt x 436.63126pt>
+<Imagenes/estructura6.png, id=655, 636.87938pt x 436.63126pt>
 File: Imagenes/estructura6.png Graphic file (type png)
 <use Imagenes/estructura6.png>
 Package pdftex.def Info: Imagenes/estructura6.png  used on input line 63.
 (pdftex.def)             Requested size: 636.87782pt x 436.63019pt.
-[32 <./Imagenes/estructura5.png> <./Imagenes/estructura6.png>]
-<Imagenes/estructura7.png, id=658, 1017.8025pt x 274.02374pt>
+[33 <./Imagenes/estructura5.png> <./Imagenes/estructura6.png>]
+<Imagenes/estructura7.png, id=662, 1017.8025pt x 274.02374pt>
 File: Imagenes/estructura7.png Graphic file (type png)
 <use Imagenes/estructura7.png>
 Package pdftex.def Info: Imagenes/estructura7.png  used on input line 84.
@@ -764,13 +774,13 @@ Overfull \hbox (13.56902pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
-<Imagenes/estructura8.png, id=659, 516.42938pt x 274.02374pt>
+<Imagenes/estructura8.png, id=663, 516.42938pt x 274.02374pt>
 File: Imagenes/estructura8.png Graphic file (type png)
 <use Imagenes/estructura8.png>
 Package pdftex.def Info: Imagenes/estructura8.png  used on input line 92.
 (pdftex.def)             Requested size: 516.42812pt x 274.02307pt.
-[33 <./Imagenes/estructura7.png> <./Imagenes/estructura8.png>]
-<Imagenes/estructura9.png, id=666, 1028.34187pt x 274.02374pt>
+[34 <./Imagenes/estructura7.png> <./Imagenes/estructura8.png>]
+<Imagenes/estructura9.png, id=670, 1028.34187pt x 274.02374pt>
 File: Imagenes/estructura9.png Graphic file (type png)
 <use Imagenes/estructura9.png>
 Package pdftex.def Info: Imagenes/estructura9.png  used on input line 100.
@@ -780,13 +790,13 @@ Overfull \hbox (17.25786pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-<Imagenes/estructura10.png, id=667, 430.60875pt x 328.22626pt>
+<Imagenes/estructura10.png, id=671, 430.60875pt x 328.22626pt>
 File: Imagenes/estructura10.png Graphic file (type png)
 <use Imagenes/estructura10.png>
 Package pdftex.def Info: Imagenes/estructura10.png  used on input line 108.
 (pdftex.def)             Requested size: 430.60768pt x 328.22545pt.
 ) (Listas.tex
-<Imagenes/listas1.png, id=668, 536.0025pt x 248.42813pt>
+<Imagenes/listas1.png, id=672, 536.0025pt x 248.42813pt>
 File: Imagenes/listas1.png Graphic file (type png)
 <use Imagenes/listas1.png>
 Package pdftex.def Info: Imagenes/listas1.png  used on input line 10.
@@ -795,29 +805,29 @@ Package pdftex.def Info: Imagenes/listas1.png  used on input line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
-<Imagenes/listas2.png, id=675, 570.63188pt x 362.85562pt>
+[35 <./Imagenes/estructura9.png> <./Imagenes/estructura10.png>]
+<Imagenes/listas2.png, id=679, 570.63188pt x 362.85562pt>
 File: Imagenes/listas2.png Graphic file (type png)
 <use Imagenes/listas2.png>
 Package pdftex.def Info: Imagenes/listas2.png  used on input line 18.
 (pdftex.def)             Requested size: 570.6305pt x 362.85474pt.
-<Imagenes/listas3.png, id=676, 558.58687pt x 334.24875pt>
+<Imagenes/listas3.png, id=680, 558.58687pt x 334.24875pt>
 File: Imagenes/listas3.png Graphic file (type png)
 <use Imagenes/listas3.png>
 Package pdftex.def Info: Imagenes/listas3.png  used on input line 26.
 (pdftex.def)             Requested size: 558.58551pt x 334.24792pt.
- [35 <./Imagenes/listas1.png> <./Imagenes/listas2.png> <./Imagenes/listas3.png>]
-<Imagenes/listas4.png, id=684, 605.26125pt x 305.64188pt>
+ [36 <./Imagenes/listas1.png> <./Imagenes/listas2.png> <./Imagenes/listas3.png>]
+<Imagenes/listas4.png, id=688, 605.26125pt x 305.64188pt>
 File: Imagenes/listas4.png Graphic file (type png)
 <use Imagenes/listas4.png>
 Package pdftex.def Info: Imagenes/listas4.png  used on input line 34.
 (pdftex.def)             Requested size: 605.25975pt x 305.64111pt.
-<Imagenes/listas5.png, id=685, 605.26125pt x 305.64188pt>
+<Imagenes/listas5.png, id=689, 605.26125pt x 305.64188pt>
 File: Imagenes/listas5.png Graphic file (type png)
 <use Imagenes/listas5.png>
 Package pdftex.def Info: Imagenes/listas5.png  used on input line 42.
 (pdftex.def)             Requested size: 605.25975pt x 305.64111pt.
-<Imagenes/listas6.png, id=686, 536.0025pt x 305.64188pt>
+<Imagenes/listas6.png, id=690, 536.0025pt x 305.64188pt>
 File: Imagenes/listas6.png Graphic file (type png)
 <use Imagenes/listas6.png>
 Package pdftex.def Info: Imagenes/listas6.png  used on input line 50.
@@ -827,7 +837,7 @@ Overfull \hbox (4.1431pt too wide) in paragraph at lines 45--52
 []\T1/cmr/m/n/10 Eliminar ele-men-tos: Pa-ra eli-mi-nar ele-men-tos hay dos mé-to-dos el ``.pop(lugar
  []
 
-<Imagenes/listas7.png, id=687, 536.0025pt x 305.64188pt>
+<Imagenes/listas7.png, id=691, 536.0025pt x 305.64188pt>
 File: Imagenes/listas7.png Graphic file (type png)
 <use Imagenes/listas7.png>
 Package pdftex.def Info: Imagenes/listas7.png  used on input line 57.
@@ -835,50 +845,50 @@ Package pdftex.def Info: Imagenes/listas7.png  used on input line 57.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36 <./Imagenes/listas4.png> <./Imagenes/listas5.png> <./Imagenes/listas6.png>]
-<Imagenes/listas8.png, id=695, 536.0025pt x 305.64188pt>
+[37 <./Imagenes/listas4.png> <./Imagenes/listas5.png> <./Imagenes/listas6.png>]
+<Imagenes/listas8.png, id=700, 536.0025pt x 305.64188pt>
 File: Imagenes/listas8.png Graphic file (type png)
 <use Imagenes/listas8.png>
 Package pdftex.def Info: Imagenes/listas8.png  used on input line 65.
 (pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
-<Imagenes/listas9.png, id=696, 536.0025pt x 305.64188pt>
+<Imagenes/listas9.png, id=701, 536.0025pt x 305.64188pt>
 File: Imagenes/listas9.png Graphic file (type png)
 <use Imagenes/listas9.png>
 Package pdftex.def Info: Imagenes/listas9.png  used on input line 73.
 (pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
- [37 <./Imagenes/listas7.png> <./Imagenes/listas8.png> <./Imagenes/listas9.png>]
-<Imagenes/listas10.png, id=705, 570.63188pt x 334.24875pt>
+ [38 <./Imagenes/listas7.png> <./Imagenes/listas8.png> <./Imagenes/listas9.png>]
+<Imagenes/listas10.png, id=709, 570.63188pt x 334.24875pt>
 File: Imagenes/listas10.png Graphic file (type png)
 <use Imagenes/listas10.png>
 Package pdftex.def Info: Imagenes/listas10.png  used on input line 81.
 (pdftex.def)             Requested size: 570.6305pt x 334.24792pt.
-<Imagenes/listas11.png, id=706, 570.63188pt x 305.64188pt>
+<Imagenes/listas11.png, id=710, 570.63188pt x 305.64188pt>
 File: Imagenes/listas11.png Graphic file (type png)
 <use Imagenes/listas11.png>
 Package pdftex.def Info: Imagenes/listas11.png  used on input line 89.
 (pdftex.def)             Requested size: 570.6305pt x 305.64111pt.
-<Imagenes/listas12.png, id=707, 837.1275pt x 305.64188pt>
+<Imagenes/listas12.png, id=711, 837.1275pt x 305.64188pt>
 File: Imagenes/listas12.png Graphic file (type png)
 <use Imagenes/listas12.png>
 Package pdftex.def Info: Imagenes/listas12.png  used on input line 96.
 (pdftex.def)             Requested size: 837.12546pt x 305.64111pt.
- [38 <./Imagenes/listas10.png> <./Imagenes/listas11.png> <./Imagenes/listas12.png>]
-<Imagenes/listas13.png, id=715, 709.14937pt x 305.64188pt>
+ [39 <./Imagenes/listas10.png> <./Imagenes/listas11.png> <./Imagenes/listas12.png>]
+<Imagenes/listas13.png, id=719, 709.14937pt x 305.64188pt>
 File: Imagenes/listas13.png Graphic file (type png)
 <use Imagenes/listas13.png>
 Package pdftex.def Info: Imagenes/listas13.png  used on input line 104.
 (pdftex.def)             Requested size: 709.14764pt x 305.64111pt.
-<Imagenes/listas14.png, id=716, 558.58687pt x 305.64188pt>
+<Imagenes/listas14.png, id=720, 558.58687pt x 305.64188pt>
 File: Imagenes/listas14.png Graphic file (type png)
 <use Imagenes/listas14.png>
 Package pdftex.def Info: Imagenes/listas14.png  used on input line 111.
 (pdftex.def)             Requested size: 558.58551pt x 305.64111pt.
-<Imagenes/listas15.png, id=717, 536.0025pt x 277.035pt>
+<Imagenes/listas15.png, id=721, 536.0025pt x 277.035pt>
 File: Imagenes/listas15.png Graphic file (type png)
 <use Imagenes/listas15.png>
 Package pdftex.def Info: Imagenes/listas15.png  used on input line 124.
 (pdftex.def)             Requested size: 536.00119pt x 277.03432pt.
-<Imagenes/listas16.png, id=718, 536.0025pt x 305.64188pt>
+<Imagenes/listas16.png, id=722, 536.0025pt x 305.64188pt>
 File: Imagenes/listas16.png Graphic file (type png)
 <use Imagenes/listas16.png>
 Package pdftex.def Info: Imagenes/listas16.png  used on input line 132.
@@ -887,35 +897,35 @@ Package pdftex.def Info: Imagenes/listas16.png  used on input line 132.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas17.png, id=719, 536.0025pt x 305.64188pt>
+<Imagenes/listas17.png, id=723, 536.0025pt x 305.64188pt>
 File: Imagenes/listas17.png Graphic file (type png)
 <use Imagenes/listas17.png>
 Package pdftex.def Info: Imagenes/listas17.png  used on input line 140.
 (pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
-[39 <./Imagenes/listas13.png> <./Imagenes/listas14.png> <./Imagenes/listas15.png>]
-<Imagenes/listas18.png, id=727, 536.0025pt x 305.64188pt>
+[40 <./Imagenes/listas13.png> <./Imagenes/listas14.png> <./Imagenes/listas15.png>]
+<Imagenes/listas18.png, id=731, 536.0025pt x 305.64188pt>
 File: Imagenes/listas18.png Graphic file (type png)
 <use Imagenes/listas18.png>
 Package pdftex.def Info: Imagenes/listas18.png  used on input line 148.
 (pdftex.def)             Requested size: 536.00119pt x 305.64111pt.
- [40 <./Imagenes/listas16.png> <./Imagenes/listas17.png> <./Imagenes/listas18.png>]
-<Imagenes/listas19.png, id=735, 558.58687pt x 305.64188pt>
+ [41 <./Imagenes/listas16.png> <./Imagenes/listas17.png> <./Imagenes/listas18.png>]
+<Imagenes/listas19.png, id=739, 558.58687pt x 305.64188pt>
 File: Imagenes/listas19.png Graphic file (type png)
 <use Imagenes/listas19.png>
 Package pdftex.def Info: Imagenes/listas19.png  used on input line 157.
 (pdftex.def)             Requested size: 558.58551pt x 305.64111pt.
-<Imagenes/listas20.png, id=736, 570.63188pt x 334.24875pt>
+<Imagenes/listas20.png, id=740, 570.63188pt x 334.24875pt>
 File: Imagenes/listas20.png Graphic file (type png)
 <use Imagenes/listas20.png>
 Package pdftex.def Info: Imagenes/listas20.png  used on input line 165.
 (pdftex.def)             Requested size: 570.6305pt x 334.24792pt.
-<Imagenes/listas21.png, id=737, 499.8675pt x 305.64188pt>
+<Imagenes/listas21.png, id=741, 499.8675pt x 305.64188pt>
 File: Imagenes/listas21.png Graphic file (type png)
 <use Imagenes/listas21.png>
 Package pdftex.def Info: Imagenes/listas21.png  used on input line 173.
 (pdftex.def)             Requested size: 499.86627pt x 305.64111pt.
- [41 <./Imagenes/listas19.png> <./Imagenes/listas20.png> <./Imagenes/listas21.png>]
-<Imagenes/listas22.png, id=745, 1103.62312pt x 248.42813pt>
+ [42 <./Imagenes/listas19.png> <./Imagenes/listas20.png> <./Imagenes/listas21.png>]
+<Imagenes/listas22.png, id=749, 1103.62312pt x 248.42813pt>
 File: Imagenes/listas22.png Graphic file (type png)
 <use Imagenes/listas22.png>
 Package pdftex.def Info: Imagenes/listas22.png  used on input line 187.
@@ -925,7 +935,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 187--188
  [][] 
  []
 
-<Imagenes/listas23.png, id=746, 1103.62312pt x 305.64188pt>
+<Imagenes/listas23.png, id=750, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas23.png Graphic file (type png)
 <use Imagenes/listas23.png>
 Package pdftex.def Info: Imagenes/listas23.png  used on input line 195.
@@ -935,7 +945,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 195--196
  [][] 
  []
 
-<Imagenes/listas24.png, id=747, 1103.62312pt x 305.64188pt>
+<Imagenes/listas24.png, id=751, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas24.png Graphic file (type png)
 <use Imagenes/listas24.png>
 Package pdftex.def Info: Imagenes/listas24.png  used on input line 203.
@@ -945,7 +955,7 @@ Overfull \hbox (43.60669pt too wide) in paragraph at lines 203--204
  [][] 
  []
 
-<Imagenes/listas25.png, id=748, 1370.11874pt x 305.64188pt>
+<Imagenes/listas25.png, id=752, 1370.11874pt x 305.64188pt>
 File: Imagenes/listas25.png Graphic file (type png)
 <use Imagenes/listas25.png>
 Package pdftex.def Info: Imagenes/listas25.png  used on input line 211.
@@ -958,7 +968,7 @@ Overfull \hbox (68.03833pt too wide) in paragraph at lines 211--212
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/listas26.png, id=749, 1079.53313pt x 305.64188pt>
+<Imagenes/listas26.png, id=753, 1079.53313pt x 305.64188pt>
 File: Imagenes/listas26.png Graphic file (type png)
 <use Imagenes/listas26.png>
 Package pdftex.def Info: Imagenes/listas26.png  used on input line 219.
@@ -968,8 +978,8 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 219--220
  [][] 
  []
 
-[42 <./Imagenes/listas22.png> <./Imagenes/listas23.png> <./Imagenes/listas24.png>]
-<Imagenes/listas27.png, id=757, 1079.53313pt x 305.64188pt>
+[43 <./Imagenes/listas22.png> <./Imagenes/listas23.png> <./Imagenes/listas24.png>]
+<Imagenes/listas27.png, id=762, 1079.53313pt x 305.64188pt>
 File: Imagenes/listas27.png Graphic file (type png)
 <use Imagenes/listas27.png>
 Package pdftex.def Info: Imagenes/listas27.png  used on input line 227.
@@ -979,8 +989,8 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 227--228
  [][] 
  []
 
-[43 <./Imagenes/listas25.png> <./Imagenes/listas26.png> <./Imagenes/listas27.png>]
-<Imagenes/listas28.png, id=766, 1114.1625pt x 420.06938pt>
+[44 <./Imagenes/listas25.png> <./Imagenes/listas26.png> <./Imagenes/listas27.png>]
+<Imagenes/listas28.png, id=770, 1114.1625pt x 420.06938pt>
 File: Imagenes/listas28.png Graphic file (type png)
 <use Imagenes/listas28.png>
 Package pdftex.def Info: Imagenes/listas28.png  used on input line 236.
@@ -995,17 +1005,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<Imagenes/funciones1.png, id=767, 615.80063pt x 277.035pt>
+<Imagenes/funciones1.png, id=771, 615.80063pt x 277.035pt>
 File: Imagenes/funciones1.png Graphic file (type png)
 <use Imagenes/funciones1.png>
 Package pdftex.def Info: Imagenes/funciones1.png  used on input line 13.
 (pdftex.def)             Requested size: 615.79912pt x 277.03432pt.
-[44 <./Imagenes/listas28.png> <./Imagenes/funciones1.png>]
+[45 <./Imagenes/listas28.png> <./Imagenes/funciones1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-<Imagenes/funciones2.png, id=774, 395.97937pt x 248.42813pt>
+<Imagenes/funciones2.png, id=778, 395.97937pt x 248.42813pt>
 File: Imagenes/funciones2.png Graphic file (type png)
 <use Imagenes/funciones2.png>
 Package pdftex.def Info: Imagenes/funciones2.png  used on input line 26.
@@ -1015,7 +1025,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<Imagenes/funciones3.png, id=775, 454.69875pt x 248.42813pt>
+<Imagenes/funciones3.png, id=779, 454.69875pt x 248.42813pt>
 File: Imagenes/funciones3.png Graphic file (type png)
 <use Imagenes/funciones3.png>
 Package pdftex.def Info: Imagenes/funciones3.png  used on input line 39.
@@ -1030,8 +1040,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[45 <./Imagenes/funciones2.png> <./Imagenes/funciones3.png>]
-<Imagenes/funciones4.png, id=783, 546.54187pt x 362.85562pt>
+[46 <./Imagenes/funciones2.png> <./Imagenes/funciones3.png>]
+<Imagenes/funciones4.png, id=787, 546.54187pt x 362.85562pt>
 File: Imagenes/funciones4.png Graphic file (type png)
 <use Imagenes/funciones4.png>
 Package pdftex.def Info: Imagenes/funciones4.png  used on input line 54.
@@ -1041,41 +1051,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-<Imagenes/funciones5.png, id=784, 615.80063pt x 334.24875pt>
+<Imagenes/funciones5.png, id=788, 615.80063pt x 334.24875pt>
 File: Imagenes/funciones5.png Graphic file (type png)
 <use Imagenes/funciones5.png>
 Package pdftex.def Info: Imagenes/funciones5.png  used on input line 70.
 (pdftex.def)             Requested size: 615.79912pt x 334.24792pt.
-[46 <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>]
-<Imagenes/funciones6.png, id=791, 778.40813pt x 334.24875pt>
+[47 <./Imagenes/funciones4.png> <./Imagenes/funciones5.png>]
+<Imagenes/funciones6.png, id=795, 778.40813pt x 334.24875pt>
 File: Imagenes/funciones6.png Graphic file (type png)
 <use Imagenes/funciones6.png>
 Package pdftex.def Info: Imagenes/funciones6.png  used on input line 78.
 (pdftex.def)             Requested size: 778.40623pt x 334.24792pt.
-<Imagenes/funciones7.png, id=792, 662.475pt x 334.24875pt>
+<Imagenes/funciones7.png, id=796, 662.475pt x 334.24875pt>
 File: Imagenes/funciones7.png Graphic file (type png)
 <use Imagenes/funciones7.png>
 Package pdftex.def Info: Imagenes/funciones7.png  used on input line 87.
 (pdftex.def)             Requested size: 662.47339pt x 334.24792pt.
-) (Manejo.tex [47 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]) (Entrada.tex
-<Imagenes/entrada1.png, id=799, 395.97937pt x 277.035pt>
+) (Manejo.tex [48 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]) (Entrada.tex
+<Imagenes/entrada1.png, id=803, 395.97937pt x 277.035pt>
 File: Imagenes/entrada1.png Graphic file (type png)
 <use Imagenes/entrada1.png>
 Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
 (pdftex.def)             Requested size: 395.97841pt x 277.03432pt.
- [48]
-<Imagenes/entrada2.png, id=804, 373.395pt x 305.64188pt>
+ [49]
+<Imagenes/entrada2.png, id=809, 373.395pt x 305.64188pt>
 File: Imagenes/entrada2.png Graphic file (type png)
 <use Imagenes/entrada2.png>
 Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
 (pdftex.def)             Requested size: 373.39409pt x 305.64111pt.
-<Imagenes/entrada3.png, id=805, 639.89063pt x 305.64188pt>
+<Imagenes/entrada3.png, id=810, 639.89063pt x 305.64188pt>
 File: Imagenes/entrada3.png Graphic file (type png)
 <use Imagenes/entrada3.png>
 Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
 (pdftex.def)             Requested size: 639.88905pt x 305.64111pt.
- [49 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
-<Imagenes/entrada4.png, id=814, 906.38625pt x 305.64188pt>
+ [50 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
+<Imagenes/entrada4.png, id=818, 906.38625pt x 305.64188pt>
 File: Imagenes/entrada4.png Graphic file (type png)
 <use Imagenes/entrada4.png>
 Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
@@ -1085,18 +1095,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Imagenes/entrada5.png, id=815, 731.73375pt x 305.64188pt>
+<Imagenes/entrada5.png, id=819, 731.73375pt x 305.64188pt>
 File: Imagenes/entrada5.png Graphic file (type png)
 <use Imagenes/entrada5.png>
 Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
 (pdftex.def)             Requested size: 731.73196pt x 305.64111pt.
-[50 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>]
+[51 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[51]
-<Imagenes/entrada6.png, id=826, 847.66687pt x 334.24875pt>
+[52]
+<Imagenes/entrada6.png, id=830, 847.66687pt x 334.24875pt>
 File: Imagenes/entrada6.png Graphic file (type png)
 <use Imagenes/entrada6.png>
 Package pdftex.def Info: Imagenes/entrada6.png  used on input line 77.
@@ -1111,7 +1121,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-<Imagenes/entrada7.png, id=827, 894.34125pt x 334.24875pt>
+<Imagenes/entrada7.png, id=831, 894.34125pt x 334.24875pt>
 File: Imagenes/entrada7.png Graphic file (type png)
 <use Imagenes/entrada7.png>
 Package pdftex.def Info: Imagenes/entrada7.png  used on input line 89.
@@ -1121,7 +1131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[52 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
+[53 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -1136,10 +1146,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[53]) [54] [55]
+[54]) [55] [56]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
- [56] (libro.aux
+ [57] (libro.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -1147,17 +1157,17 @@ Package rerunfilecheck Info: File `libro.out' has not changed.
 (rerunfilecheck)             Checksum: F81336CFD36254CC80015B5EF173A1FF;16226.
  ) 
 Here is how much of TeX's memory you used:
- 10689 strings out of 476331
- 179231 string characters out of 5786313
+ 10690 strings out of 476331
+ 179238 string characters out of 5786313
  1870660 words of memory out of 5000000
  30754 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,76p,761b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (56 pages, 4035581 bytes).
+Output written on libro.pdf (57 pages, 4038300 bytes).
 PDF statistics:
- 1182 PDF objects out of 1200 (max. 8388607)
- 143 named destinations out of 1000 (max. 500000)
+ 1186 PDF objects out of 1200 (max. 8388607)
+ 144 named destinations out of 1000 (max. 500000)
  1133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
