@@ -34,47 +34,47 @@
 \contentsline {subsection}{\numberline {7.1}Definición y llamada de funciones}{44}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Argumentos y parámetros}{45}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Módulos y su importación}{46}{subsection.7.3}%
-\contentsline {section}{\numberline {8}Manejo de excepciones y errores}{48}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Introducción a las excepciones}{48}{subsection.8.1}%
+\contentsline {section}{\numberline {8}Manejo de excepciones y errores}{47}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Introducción a las excepciones}{47}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Uso de try, except, else}{48}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Tipos de excepciones y manejo específico}{48}{subsection.8.3}%
 \contentsline {section}{\numberline {9}Entrada y salida de datos}{48}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Función print()}{48}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Función input()}{48}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Formateo de cadenas}{49}{subsection.9.3}%
-\contentsline {section}{\numberline {10}Trabajo con archivos}{51}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Apertura, lectura y escritura de archivos}{51}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Operaciones comunes de archivos}{52}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Manejo de archivos con el bloque ``with''}{52}{subsection.10.3}%
-\contentsline {section}{\numberline {11}Introducción a la programación orientada a objetos}{55}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Definición de clases y objetos}{55}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Métodos y atributos de clase}{55}{subsection.11.2}%
-\contentsline {section}{\numberline {12}Clases y objetos}{55}{section.12}%
-\contentsline {subsection}{\numberline {12.1}Encapsulación y visibilidad}{55}{subsection.12.1}%
-\contentsline {subsection}{\numberline {12.2}Métodos especiales}{55}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3}Herencia y composición}{55}{subsection.12.3}%
-\contentsline {section}{\numberline {13}Herencia y polimorfismo}{55}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Herencia simple y múltiple}{55}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2}Polimorfismo y sobrecarga de métodos}{55}{subsection.13.2}%
-\contentsline {subsection}{\numberline {13.3}Clases abstractas e interfaces}{55}{subsection.13.3}%
-\contentsline {section}{\numberline {14}Módulos y paquetes}{55}{section.14}%
-\contentsline {subsection}{\numberline {14.1}¿Qué son los Módulos en Python?}{55}{subsection.14.1}%
-\contentsline {subsection}{\numberline {14.2}Creación y Uso de Módulos}{55}{subsection.14.2}%
-\contentsline {subsection}{\numberline {14.3}Importación de Módulos}{55}{subsection.14.3}%
-\contentsline {subsection}{\numberline {14.4}Módulos Estándar de Python}{55}{subsection.14.4}%
-\contentsline {subsection}{\numberline {14.5}¿Qué son los Paquetes en Python?}{55}{subsection.14.5}%
-\contentsline {subsection}{\numberline {14.6}Creación y Organización de Paquetes}{55}{subsection.14.6}%
-\contentsline {subsection}{\numberline {14.7}Importación de Paquetes}{55}{subsection.14.7}%
-\contentsline {section}{\numberline {15}Manipulación de strings y expresiones regulares}{55}{section.15}%
-\contentsline {subsection}{\numberline {15.1}Operaciones comunes con cadenas de texto}{55}{subsection.15.1}%
-\contentsline {subsection}{\numberline {15.2}Operaciones comunes con cadenas de texto}{55}{subsection.15.2}%
-\contentsline {section}{\numberline {16}Trabajo con fechas y tiempos}{55}{section.16}%
-\contentsline {subsection}{\numberline {16.1}Módulos datetime y time}{55}{subsection.16.1}%
-\contentsline {subsection}{\numberline {16.2}Operaciones y formateo de fechas y tiempos}{55}{subsection.16.2}%
-\contentsline {section}{\numberline {17}Introducción a Git}{55}{section.17}%
-\contentsline {subsection}{\numberline {17.1}¿Qué es Git y por qué es importante?}{55}{subsection.17.1}%
-\contentsline {subsection}{\numberline {17.2}Configuración inicial de Git}{55}{subsection.17.2}%
-\contentsline {subsection}{\numberline {17.3}Comandos básicos de Git}{55}{subsection.17.3}%
-\contentsline {section}{\numberline {18}Creación de interfaces gráficas con bibliotecas como Tkinter}{55}{section.18}%
-\contentsline {subsection}{\numberline {18.1}Introducción a las interfaces gráficas}{55}{subsection.18.1}%
-\contentsline {subsection}{\numberline {18.2}Uso de Tkinter para GUÍAs simples}{55}{subsection.18.2}%
+\contentsline {subsection}{\numberline {9.2}Función input()}{50}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Formateo de cadenas}{50}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Trabajo con archivos}{52}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Apertura, lectura y escritura de archivos}{52}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Operaciones comunes de archivos}{53}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Manejo de archivos con el bloque ``with''}{53}{subsection.10.3}%
+\contentsline {section}{\numberline {11}Introducción a la programación orientada a objetos}{56}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Definición de clases y objetos}{56}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Métodos y atributos de clase}{56}{subsection.11.2}%
+\contentsline {section}{\numberline {12}Clases y objetos}{56}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Encapsulación y visibilidad}{56}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Métodos especiales}{56}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Herencia y composición}{56}{subsection.12.3}%
+\contentsline {section}{\numberline {13}Herencia y polimorfismo}{56}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Herencia simple y múltiple}{56}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Polimorfismo y sobrecarga de métodos}{56}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Clases abstractas e interfaces}{56}{subsection.13.3}%
+\contentsline {section}{\numberline {14}Módulos y paquetes}{56}{section.14}%
+\contentsline {subsection}{\numberline {14.1}¿Qué son los Módulos en Python?}{56}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Creación y Uso de Módulos}{56}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Importación de Módulos}{56}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Módulos Estándar de Python}{56}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}¿Qué son los Paquetes en Python?}{56}{subsection.14.5}%
+\contentsline {subsection}{\numberline {14.6}Creación y Organización de Paquetes}{56}{subsection.14.6}%
+\contentsline {subsection}{\numberline {14.7}Importación de Paquetes}{56}{subsection.14.7}%
+\contentsline {section}{\numberline {15}Manipulación de strings y expresiones regulares}{56}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Operaciones comunes con cadenas de texto}{56}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Operaciones comunes con cadenas de texto}{56}{subsection.15.2}%
+\contentsline {section}{\numberline {16}Trabajo con fechas y tiempos}{56}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Módulos datetime y time}{56}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Operaciones y formateo de fechas y tiempos}{56}{subsection.16.2}%
+\contentsline {section}{\numberline {17}Introducción a Git}{56}{section.17}%
+\contentsline {subsection}{\numberline {17.1}¿Qué es Git y por qué es importante?}{56}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Configuración inicial de Git}{56}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}Comandos básicos de Git}{56}{subsection.17.3}%
+\contentsline {section}{\numberline {18}Creación de interfaces gráficas con bibliotecas como Tkinter}{56}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Introducción a las interfaces gráficas}{56}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}Uso de Tkinter para GUÍAs simples}{56}{subsection.18.2}%
