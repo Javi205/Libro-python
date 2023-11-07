@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  31 OCT 2023 10:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.20)  7 NOV 2023 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,64 +928,61 @@ Package pdftex.def Info: Imagenes/listas21.png  used on input line 173.
 <Imagenes/listas22.png, id=749, 1103.62312pt x 248.42813pt>
 File: Imagenes/listas22.png Graphic file (type png)
 <use Imagenes/listas22.png>
-Package pdftex.def Info: Imagenes/listas22.png  used on input line 187.
+Package pdftex.def Info: Imagenes/listas22.png  used on input line 188.
 (pdftex.def)             Requested size: 1103.62044pt x 248.42752pt.
 
-Overfull \hbox (43.60669pt too wide) in paragraph at lines 187--188
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 188--189
  [][] 
  []
 
 <Imagenes/listas23.png, id=750, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas23.png Graphic file (type png)
 <use Imagenes/listas23.png>
-Package pdftex.def Info: Imagenes/listas23.png  used on input line 195.
+Package pdftex.def Info: Imagenes/listas23.png  used on input line 196.
 (pdftex.def)             Requested size: 1103.62044pt x 305.64111pt.
 
-Overfull \hbox (43.60669pt too wide) in paragraph at lines 195--196
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 196--197
  [][] 
  []
 
 <Imagenes/listas24.png, id=751, 1103.62312pt x 305.64188pt>
 File: Imagenes/listas24.png Graphic file (type png)
 <use Imagenes/listas24.png>
-Package pdftex.def Info: Imagenes/listas24.png  used on input line 203.
+Package pdftex.def Info: Imagenes/listas24.png  used on input line 204.
 (pdftex.def)             Requested size: 1103.62044pt x 305.64111pt.
 
-Overfull \hbox (43.60669pt too wide) in paragraph at lines 203--204
+Overfull \hbox (43.60669pt too wide) in paragraph at lines 204--205
  [][] 
  []
 
 <Imagenes/listas25.png, id=752, 1370.11874pt x 305.64188pt>
 File: Imagenes/listas25.png Graphic file (type png)
 <use Imagenes/listas25.png>
-Package pdftex.def Info: Imagenes/listas25.png  used on input line 211.
+Package pdftex.def Info: Imagenes/listas25.png  used on input line 212.
 (pdftex.def)             Requested size: 1370.1154pt x 305.64111pt.
 
-Overfull \hbox (68.03833pt too wide) in paragraph at lines 211--212
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/listas26.png, id=753, 1079.53313pt x 305.64188pt>
-File: Imagenes/listas26.png Graphic file (type png)
-<use Imagenes/listas26.png>
-Package pdftex.def Info: Imagenes/listas26.png  used on input line 219.
-(pdftex.def)             Requested size: 1079.5305pt x 305.64111pt.
-
-Overfull \hbox (35.17506pt too wide) in paragraph at lines 219--220
+Overfull \hbox (68.03833pt too wide) in paragraph at lines 212--213
  [][] 
  []
 
 [43 <./Imagenes/listas22.png> <./Imagenes/listas23.png> <./Imagenes/listas24.png>]
+<Imagenes/listas26.png, id=761, 1079.53313pt x 305.64188pt>
+File: Imagenes/listas26.png Graphic file (type png)
+<use Imagenes/listas26.png>
+Package pdftex.def Info: Imagenes/listas26.png  used on input line 220.
+(pdftex.def)             Requested size: 1079.5305pt x 305.64111pt.
+
+Overfull \hbox (35.17506pt too wide) in paragraph at lines 220--221
+ [][] 
+ []
+
 <Imagenes/listas27.png, id=762, 1079.53313pt x 305.64188pt>
 File: Imagenes/listas27.png Graphic file (type png)
 <use Imagenes/listas27.png>
-Package pdftex.def Info: Imagenes/listas27.png  used on input line 227.
+Package pdftex.def Info: Imagenes/listas27.png  used on input line 228.
 (pdftex.def)             Requested size: 1079.5305pt x 305.64111pt.
 
-Overfull \hbox (35.17506pt too wide) in paragraph at lines 227--228
+Overfull \hbox (35.17506pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
@@ -993,10 +990,10 @@ Overfull \hbox (35.17506pt too wide) in paragraph at lines 227--228
 <Imagenes/listas28.png, id=770, 1114.1625pt x 420.06938pt>
 File: Imagenes/listas28.png Graphic file (type png)
 <use Imagenes/listas28.png>
-Package pdftex.def Info: Imagenes/listas28.png  used on input line 236.
+Package pdftex.def Info: Imagenes/listas28.png  used on input line 237.
 (pdftex.def)             Requested size: 1114.15979pt x 420.06836pt.
 
-Overfull \hbox (47.29552pt too wide) in paragraph at lines 236--237
+Overfull \hbox (47.29552pt too wide) in paragraph at lines 237--238
  [][] 
  []
 
@@ -1067,46 +1064,120 @@ File: Imagenes/funciones7.png Graphic file (type png)
 <use Imagenes/funciones7.png>
 Package pdftex.def Info: Imagenes/funciones7.png  used on input line 87.
 (pdftex.def)             Requested size: 662.47339pt x 334.24792pt.
-) (Manejo.tex [48 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]) (Entrada.tex
-<Imagenes/entrada1.png, id=803, 395.97937pt x 277.035pt>
+) (Manejo.tex [48 <./Imagenes/funciones6.png> <./Imagenes/funciones7.png>]
+<Imagenes/manejo1.png, id=803, 1079.53313pt x 362.85562pt>
+File: Imagenes/manejo1.png Graphic file (type png)
+<use Imagenes/manejo1.png>
+Package pdftex.def Info: Imagenes/manejo1.png  used on input line 12.
+(pdftex.def)             Requested size: 1079.5305pt x 362.85474pt.
+
+Overfull \hbox (35.17506pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+<Imagenes/manejo2.png, id=804, 802.49812pt x 391.4625pt>
+File: Imagenes/manejo2.png Graphic file (type png)
+<use Imagenes/manejo2.png>
+Package pdftex.def Info: Imagenes/manejo2.png  used on input line 21.
+(pdftex.def)             Requested size: 802.49615pt x 391.46153pt.
+<Imagenes/manejo3.png, id=805, 1172.88188pt x 420.06938pt>
+File: Imagenes/manejo3.png Graphic file (type png)
+<use Imagenes/manejo3.png>
+Package pdftex.def Info: Imagenes/manejo3.png  used on input line 29.
+(pdftex.def)             Requested size: 1172.87901pt x 420.06836pt.
+
+Overfull \hbox (67.84761pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+[49 <./Imagenes/manejo1.png> <./Imagenes/manejo2.png>]
+<Imagenes/manejo4.png, id=813, 802.49812pt x 334.24875pt>
+File: Imagenes/manejo4.png Graphic file (type png)
+<use Imagenes/manejo4.png>
+Package pdftex.def Info: Imagenes/manejo4.png  used on input line 41.
+(pdftex.def)             Requested size: 802.49615pt x 334.24792pt.
+ [50 <./Imagenes/manejo3.png> <./Imagenes/manejo4.png>]
+<Imagenes/manejo5.png, id=820, 697.10437pt x 362.85562pt>
+File: Imagenes/manejo5.png Graphic file (type png)
+<use Imagenes/manejo5.png>
+Package pdftex.def Info: Imagenes/manejo5.png  used on input line 49.
+(pdftex.def)             Requested size: 697.10266pt x 362.85474pt.
+<Imagenes/manejo6.png, id=821, 1010.27437pt x 334.24875pt>
+File: Imagenes/manejo6.png Graphic file (type png)
+<use Imagenes/manejo6.png>
+Package pdftex.def Info: Imagenes/manejo6.png  used on input line 57.
+(pdftex.def)             Requested size: 1010.2719pt x 334.24792pt.
+
+Overfull \hbox (10.93413pt too wide) in paragraph at lines 57--58
+ [][] 
+ []
+
+<Imagenes/manejo7.png, id=822, 813.0375pt x 362.85562pt>
+File: Imagenes/manejo7.png Graphic file (type png)
+<use Imagenes/manejo7.png>
+Package pdftex.def Info: Imagenes/manejo7.png  used on input line 66.
+(pdftex.def)             Requested size: 813.03552pt x 362.85474pt.
+<Imagenes/manejo8.png, id=823, 928.97063pt x 334.24875pt>
+File: Imagenes/manejo8.png Graphic file (type png)
+<use Imagenes/manejo8.png>
+Package pdftex.def Info: Imagenes/manejo8.png  used on input line 75.
+(pdftex.def)             Requested size: 928.96837pt x 334.24792pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/manejo9.png, id=824, 975.645pt x 420.06938pt>
+File: Imagenes/manejo9.png Graphic file (type png)
+<use Imagenes/manejo9.png>
+Package pdftex.def Info: Imagenes/manejo9.png  used on input line 83.
+(pdftex.def)             Requested size: 975.64262pt x 420.06836pt.
+[51 <./Imagenes/manejo5.png> <./Imagenes/manejo6.png> <./Imagenes/manejo7.png>]) (Entrada.tex
+<Imagenes/entrada1.png, id=832, 395.97937pt x 277.035pt>
 File: Imagenes/entrada1.png Graphic file (type png)
 <use Imagenes/entrada1.png>
 Package pdftex.def Info: Imagenes/entrada1.png  used on input line 10.
 (pdftex.def)             Requested size: 395.97841pt x 277.03432pt.
- [49]
-<Imagenes/entrada2.png, id=809, 373.395pt x 305.64188pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[52 <./Imagenes/manejo8.png> <./Imagenes/manejo9.png>]
+<Imagenes/entrada2.png, id=839, 373.395pt x 305.64188pt>
 File: Imagenes/entrada2.png Graphic file (type png)
 <use Imagenes/entrada2.png>
 Package pdftex.def Info: Imagenes/entrada2.png  used on input line 21.
 (pdftex.def)             Requested size: 373.39409pt x 305.64111pt.
-<Imagenes/entrada3.png, id=810, 639.89063pt x 305.64188pt>
+<Imagenes/entrada3.png, id=840, 639.89063pt x 305.64188pt>
 File: Imagenes/entrada3.png Graphic file (type png)
 <use Imagenes/entrada3.png>
 Package pdftex.def Info: Imagenes/entrada3.png  used on input line 29.
 (pdftex.def)             Requested size: 639.88905pt x 305.64111pt.
- [50 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
-<Imagenes/entrada4.png, id=818, 906.38625pt x 305.64188pt>
+<Imagenes/entrada4.png, id=841, 906.38625pt x 305.64188pt>
 File: Imagenes/entrada4.png Graphic file (type png)
 <use Imagenes/entrada4.png>
 Package pdftex.def Info: Imagenes/entrada4.png  used on input line 43.
 (pdftex.def)             Requested size: 906.38403pt x 305.64111pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Imagenes/entrada5.png, id=819, 731.73375pt x 305.64188pt>
+[53 <./Imagenes/entrada1.png> <./Imagenes/entrada2.png> <./Imagenes/entrada3.png>]
+<Imagenes/entrada5.png, id=849, 731.73375pt x 305.64188pt>
 File: Imagenes/entrada5.png Graphic file (type png)
 <use Imagenes/entrada5.png>
 Package pdftex.def Info: Imagenes/entrada5.png  used on input line 55.
 (pdftex.def)             Requested size: 731.73196pt x 305.64111pt.
-[51 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[52]
-<Imagenes/entrada6.png, id=830, 847.66687pt x 334.24875pt>
+[54 <./Imagenes/entrada4.png> <./Imagenes/entrada5.png>] [55]
+<Imagenes/entrada6.png, id=861, 847.66687pt x 334.24875pt>
 File: Imagenes/entrada6.png Graphic file (type png)
 <use Imagenes/entrada6.png>
 Package pdftex.def Info: Imagenes/entrada6.png  used on input line 77.
@@ -1121,7 +1192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-<Imagenes/entrada7.png, id=831, 894.34125pt x 334.24875pt>
+<Imagenes/entrada7.png, id=862, 894.34125pt x 334.24875pt>
 File: Imagenes/entrada7.png Graphic file (type png)
 <use Imagenes/entrada7.png>
 Package pdftex.def Info: Imagenes/entrada7.png  used on input line 89.
@@ -1131,7 +1202,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-[53 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
+[56 <./Imagenes/entrada6.png> <./Imagenes/entrada7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
@@ -1146,10 +1217,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[54]) [55] [56]
+[57]) [58] [59]
 Overfull \vbox (210.16504pt too high) has occurred while \output is active []
 
- [57] (libro.aux
+ [60] (libro.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -1157,17 +1228,17 @@ Package rerunfilecheck Info: File `libro.out' has not changed.
 (rerunfilecheck)             Checksum: F81336CFD36254CC80015B5EF173A1FF;16226.
  ) 
 Here is how much of TeX's memory you used:
- 10690 strings out of 476331
- 179238 string characters out of 5786313
+ 10756 strings out of 476331
+ 180717 string characters out of 5786313
  1870660 words of memory out of 5000000
- 30754 multiletter control sequences out of 15000+600000
+ 30808 multiletter control sequences out of 15000+600000
  518012 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,76p,761b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Enlace 3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/Enlace 3/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on libro.pdf (57 pages, 4038300 bytes).
+Output written on libro.pdf (60 pages, 4477387 bytes).
 PDF statistics:
- 1186 PDF objects out of 1200 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 1133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1218 PDF objects out of 1440 (max. 8388607)
+ 147 named destinations out of 1000 (max. 500000)
+ 1178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
